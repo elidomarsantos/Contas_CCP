@@ -366,7 +366,7 @@ font-weight: bold;
  
  }
 
-#nav_base {
+.navbar {
     background-color: lightgrey;
     border-radius: 20px;
     padding-left: 8%;
