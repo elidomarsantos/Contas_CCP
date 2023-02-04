@@ -33,6 +33,7 @@ sal_final_don = 0
 total_C_TE = 0
 total_O = 0
 total_G = 0
+total_betel = 0
 
 def home(request):
     return render(request, 'cp/home.html') 
@@ -140,6 +141,7 @@ def deletar_folha_de_contas (request):
 @login_required
 def relatório_mensal(request):
     global saldo_mês_atual
+    global total_betel
     
     relatório = Gerais.objects.all()
     don_ent = Contas.objects.aggregate(total=Sum('donativos_Entrada'))
@@ -492,7 +494,7 @@ def relatório_mensal(request):
     entradas_despesas = total_das_entradas -total_das_despesas 
     saldo_mês_atual_sem_fundos =  saldo_mês_atual - fundos_reservados
     total_betel = total_CF + total_O + remessa_Enviada_para_Betel_Resolução
-    saldo_mês_atual1 = str(52)
+    
 
   
     
@@ -2710,6 +2712,7 @@ def resultado(request):
         'total_O':total_O,
         'total_G':total_G,
         'saldo_mês_atual':saldo_mês_atual,
+        'total_betel':total_betel
         }
     
     return render(request, 'cp/resultado.html' , context )    
