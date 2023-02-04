@@ -167,16 +167,16 @@ endobj
   /Rotate 0 /Tabs /R /Type /Page>>
 endobj
 7 0 obj
-<</AA <</F 409 0 R /K 410 0 R>> /AP (30-01-2023) /DA (/TiRo 0 Tf 0 g) /F
+<</AA <</F 409 0 R /K 410 0 R>> /AP (31-01-2023) /DA (/TiRo 0 Tf 0 g) /F
   4 /MK <<>> /P 6 0 R /Parent 108 0 R /Q 1 /Rect
   [278.539 764.614 423.037 780.249] /Subtype /Widget /TU () /V
-  (30-01-2023)>>
+  (31-01-2023)>>
 endobj
 8 0 obj
-<</AA <</F 407 0 R /K 408 0 R>> /AP (1836.71) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 6 0 R /Q 2 /Rect
+<</AA <</F 407 0 R /K 408 0 R>> /AP (0) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 6 0 R /Q 2 /Rect
   [243.187 717.61 286.407 731.751] /Subtype /Widget /T
-  (saldo_final_extrato_mensal) /TU () /V (1836.71)>>
+  (saldo_final_extrato_mensal) /TU () /V (0)>>
 endobj
 9 0 obj
 <</AA <</F 402 0 R /K 403 0 R>> /AP <</N 404 0 R>> /DA (/TiRo 0 Tf 0 g)
@@ -226,10 +226,10 @@ endobj
   /T (þÿ 9 0 4 _ 6 _ T e x t) /TU () /V (Remessas para Betel)>>
 endobj
 17 0 obj
-<</AA <</F 365 0 R /K 366 0 R>> /AP (786.0) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 365 0 R /K 366 0 R>> /AP (832.0) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 6 0 R /Q 2 /Rect
   [189.212 616.83 233.129 629.876] /Subtype /Widget /T (betel) /TU () /V
-  (786.0)>>
+  (832.0)>>
 endobj
 18 0 obj
 <</AP <</N 362 0 R>> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK
@@ -378,10 +378,10 @@ endobj
   (þÿ 9 0 4 _ 5 5 _ S 2 6 A m o u n t) /TU ()>>
 endobj
 44 0 obj
-<</AA <</F 249 0 R /K 250 0 R>> /AP (1050.71) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 249 0 R /K 250 0 R>> /AP (-832.0) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /M (D:20220730143308+00'00') /MK 251 0 R /Q 2
   /Rect [243.187 447.535 286.606 463.07] /Subtype /Widget /T
-  (saldo_conta_extrato_sem_betel) /TU () /V (1050.71)>>
+  (saldo_conta_extrato_sem_betel) /TU () /V (-832.0)>>
 endobj
 45 0 obj
 <</AA <</F 246 0 R /K 247 0 R>> /AP (250.0) /DA (/TiRo 0 Tf 0 g) /F 4
@@ -400,10 +400,10 @@ endobj
   [189.636 154.24 232.856 169.775] /Subtype /Widget /TU ()>>
 endobj
 48 0 obj
-<</AA <</F 217 0 R /K 218 0 R>> /AP (989.13) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 217 0 R /K 218 0 R>> /AP (1640.3) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /M (D:20220730143549+00'00') /MK 219 0 R /Q 2
   /Rect [190.269 258.465 233.489 274.1] /Subtype /Widget /T
-  (saldo_conta_anterior) /TU () /V (989.13)>>
+  (saldo_conta_anterior) /TU () /V (1640.3)>>
 endobj
 49 0 obj
 <</AA <</F 204 0 R /K 205 0 R>> /AP 206 0 R /DA (/TiRo 0 Tf 0 g) /F 4 /M
@@ -416,10 +416,10 @@ endobj
   [190.269 230.183 233.489 245.718] /Subtype /Widget /TU ()>>
 endobj
 51 0 obj
-<</AA <</F 188 0 R /K 189 0 R>> /AP (0) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /M (D:20220730143611+00'00') /MK 190 0 R /Q 2 /Rect
-  [190.269 336.06 233.489 351.695] /Subtype /Widget /T
-  (saldo_donativos_anterior) /TU () /V (0)>>
+<</AA <</F 188 0 R /K 189 0 R>> /AP (926.0) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /M (D:20220730143611+00'00') /MK 190 0 R /Q 2
+  /Rect [190.269 336.06 233.489 351.695] /Subtype /Widget /T
+  (saldo_donativos_anterior) /TU () /V (926.0)>>
 endobj
 52 0 obj
 <</AA <</F 175 0 R /K 176 0 R>> /AP 177 0 R /DA (/TiRo 0 Tf 0 g) /F 4 /M
@@ -432,16 +432,16 @@ endobj
   [190.269 307.778 233.489 323.313] /Subtype /Widget /TU ()>>
 endobj
 54 0 obj
-<</AA <</F 159 0 R /K 160 0 R>> /AP (-163.0) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /M (D:20220730143621+00'00') /MK 161 0 R /Q 2
-  /Rect [241.893 292.987 285.113 308.622] /Subtype /Widget /T
-  (sal_final_don) /TU () /V (-163.0)>>
+<</AA <</F 159 0 R /K 160 0 R>> /AP (0.0) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /M (D:20220730143621+00'00') /MK 161 0 R /Q 2 /Rect
+  [241.893 292.987 285.113 308.622] /Subtype /Widget /T (sal_final_don)
+  /TU () /V (0.0)>>
 endobj
 55 0 obj
-<</AA <</F 156 0 R /K 157 0 R>> /AP (1050.71) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 156 0 R /K 157 0 R>> /AP (2728.3) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /M (D:20220730143627+00'00') /MK 158 0 R /Q 2
   /Rect [242.526 216.343 285.746 231.978] /Subtype /Widget /T
-  (sal_final_con) /TU () /V (1050.71)>>
+  (sal_final_con) /TU () /V (2728.3)>>
 endobj
 56 0 obj
 <</AA <</F 153 0 R /K 154 0 R>> /AP (250.0) /DA (/TiRo 0 Tf 0 g) /F 4
@@ -450,10 +450,10 @@ endobj
   (sal_final_betel) /TU () /V (250.0)>>
 endobj
 57 0 obj
-<</AA <</F 150 0 R /K 151 0 R>> /AP (1137.71) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 150 0 R /K 151 0 R>> /AP (2978.3) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /M (D:20220730143636+00'00') /MK 152 0 R /Q 2
   /Rect [242.209 118.163 285.429 133.798] /Subtype /Widget /T
-  (total_total) /TU () /V (1137.71)>>
+  (total_total) /TU () /V (2978.3)>>
 endobj
 58 0 obj
 <</AA <<>> /AP 144 0 R /DA (/TiRo 0 Tf 0 g) /F 4 /M
@@ -875,8 +875,8 @@ endobj
 <<>>
 endobj
 108 0 obj
-<</AP (30-01-2023) /FT /Tx /Ff 8388608 /Kids
-  [7 0 R 109 0 R 110 0 R 60 0 R 61 0 R] /T (data) /V (30-01-2023)>>
+<</AP (31-01-2023) /FT /Tx /Ff 8388608 /Kids
+  [7 0 R 109 0 R 110 0 R 60 0 R 61 0 R] /T (data) /V (31-01-2023)>>
 endobj
 109 0 obj
 <</AA <</F 118 0 R /K 119 0 R>> /AP <</N 120 0 R>> /DA (/TiRo 0 Tf 0 g)
@@ -1163,13 +1163,13 @@ endobj
 <<>>
 endobj
 166 0 obj
-<</AP (1071.0) /FT /Tx /Ff 12582912 /Kids [167 0 R 53 0 R] /T
-  (don_sai.total) /V (1071.0)>>
+<</AP (1820.0) /FT /Tx /Ff 12582912 /Kids [167 0 R 53 0 R] /T
+  (don_sai.total) /V (1820.0)>>
 endobj
 167 0 obj
-<</AA <</F 168 0 R /K 169 0 R>> /AP (1071.0) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 168 0 R /K 169 0 R>> /AP (1820.0) /DA (/TiRo 0 Tf 0 g) /F 4
   /M (D:20220730142841+00'00') /MK 170 0 R /Parent 166 0 R /Q 2 /Rect
-  [304.741 99.2231 351.048 113.464] /Subtype /Widget /TU () /V (1071.0)>>
+  [304.741 99.2231 351.048 113.464] /Subtype /Widget /TU () /V (1820.0)>>
 endobj
 168 0 obj
 <</JS (AFNumber_Format\(2, 2,  0, 0, "", true\);) /S /JavaScript /Type
@@ -1214,13 +1214,13 @@ endobj
 <<>>
 endobj
 179 0 obj
-<</AP (908.0) /FT /Tx /Ff 12582912 /Kids [180 0 R 52 0 R] /T
-  (don_ent.total) /V (908.0)>>
+<</AP (894.0) /FT /Tx /Ff 12582912 /Kids [180 0 R 52 0 R] /T
+  (don_ent.total) /V (894.0)>>
 endobj
 180 0 obj
-<</AA <</F 181 0 R /K 182 0 R>> /AP (908.0) /DA (/TiRo 0 Tf 0 g) /F 4 /M
+<</AA <</F 181 0 R /K 182 0 R>> /AP (894.0) /DA (/TiRo 0 Tf 0 g) /F 4 /M
   (D:20220730142841+00'00') /MK 183 0 R /Parent 179 0 R /Q 2 /Rect
-  [251.164 99.2231 297.471 113.464] /Subtype /Widget /TU () /V (908.0)>>
+  [251.164 99.2231 297.471 113.464] /Subtype /Widget /TU () /V (894.0)>>
 endobj
 181 0 obj
 <</JS (AFNumber_Format\(2, 2,  0, 0, "", true\);) /S /JavaScript /Type
@@ -1276,13 +1276,13 @@ endobj
 <<>>
 endobj
 195 0 obj
-<</AP (1837.88) /FT /Tx /Ff 12582912 /Kids [196 0 R 50 0 R] /T
-  (con_sai.total) /V (1837.88)>>
+<</AP (832.0) /FT /Tx /Ff 12582912 /Kids [196 0 R 50 0 R] /T
+  (con_sai.total) /V (832.0)>>
 endobj
 196 0 obj
-<</AA <</F 197 0 R /K 198 0 R>> /AP (1837.88) /DA (/TiRo 0 Tf 0 g) /F 4
-  /M (D:20220730142841+00'00') /MK 199 0 R /Parent 195 0 R /Q 2 /Rect
-  [412.293 99.2231 458.6 113.464] /Subtype /Widget /TU () /V (1837.88)>>
+<</AA <</F 197 0 R /K 198 0 R>> /AP (832.0) /DA (/TiRo 0 Tf 0 g) /F 4 /M
+  (D:20220730142841+00'00') /MK 199 0 R /Parent 195 0 R /Q 2 /Rect
+  [412.293 99.2231 458.6 113.464] /Subtype /Widget /TU () /V (832.0)>>
 endobj
 197 0 obj
 <</JS (AFNumber_Format\(2, 2,  0, 0, "", true\);) /S /JavaScript /Type
@@ -1327,13 +1327,13 @@ endobj
 <<>>
 endobj
 208 0 obj
-<</AP (1899.46) /FT /Tx /Ff 12582912 /Kids [209 0 R 49 0 R] /T
-  (con_ent.total) /V (1899.46)>>
+<</AP (1920.0) /FT /Tx /Ff 12582912 /Kids [209 0 R 49 0 R] /T
+  (con_ent.total) /V (1920.0)>>
 endobj
 209 0 obj
-<</AA <</F 210 0 R /K 211 0 R>> /AP (1899.46) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 210 0 R /K 211 0 R>> /AP (1920.0) /DA (/TiRo 0 Tf 0 g) /F 4
   /M (D:20220730142841+00'00') /MK 212 0 R /Parent 208 0 R /Q 2 /Rect
-  [358.417 99.2231 404.724 113.464] /Subtype /Widget /TU () /V (1899.46)>>
+  [358.417 99.2231 404.724 113.464] /Subtype /Widget /TU () /V (1920.0)>>
 endobj
 210 0 obj
 <</JS (AFNumber_Format\(2, 2,  0, 0, "", true\);) /S /JavaScript /Type
@@ -2226,21 +2226,21 @@ endobj
 <</JS () /S /JavaScript /Type /Action>>
 endobj
 411 0 obj
-<</AA <</F 1652 0 R /K 1653 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1652 0 R /K 1653 0 R>> /AP (1) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 725.676 44.216 739.817] /Subtype /Widget /T (1) /TU () /V <>>>
+  [20.514 725.676 44.216 739.817] /Subtype /Widget /T (1) /TU () /V (1)>>
 endobj
 412 0 obj
-<</AA <</F 1650 0 R /K 1651 0 R>> /AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1650 0 R /K 1651 0 R>> /AP (CF) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Q 1 /Rect
   [232.133 725.676 249.759 739.817] /Subtype /Widget /T (3) /TU () /V
-  (C)>>
+  (CF)>>
 endobj
 413 0 obj
-<</AA <</F 1648 0 R /K 1649 0 R>> /AP (179.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1648 0 R /K 1649 0 R>> /AP (20.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 725.577 298.755 739.718] /Subtype /Widget /T (4) /TU () /V
-  (179.00)>>
+  (20.00)>>
 endobj
 414 0 obj
 <</AA <</F 1646 0 R /K 1647 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2268,14 +2268,15 @@ endobj
   [521.029 725.676 567.336 739.817] /Subtype /Widget /T (9) /TU () /V <>>>
 endobj
 419 0 obj
-<</AA <</F 1636 0 R /K 1637 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1636 0 R /K 1637 0 R>> /AP (1) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 713.527 44.216 727.668] /Subtype /Widget /T (10) /TU () /V <>>>
+  [20.514 713.527 44.216 727.668] /Subtype /Widget /T (10) /TU () /V (1)>>
 endobj
 420 0 obj
-<</AA <</F 1634 0 R /K 1635 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Rect
-  [44.514 713.527 231.734 727.668] /Subtype /Widget /T (11) /TU () /V <>>>
+<</AA <</F 1634 0 R /K 1635 0 R>> /AP (Donativos - Obra Mundial) /DA
+  (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R
+  /Rect [44.514 713.527 231.734 727.668] /Subtype /Widget /T (11) /TU ()
+  /V (Donativos - Obra Mundial)>>
 endobj
 421 0 obj
 <</AA <</F 1632 0 R /K 1633 0 R>> /AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2284,10 +2285,10 @@ endobj
   (O)>>
 endobj
 422 0 obj
-<</AA <</F 1630 0 R /K 1631 0 R>> /AP (26.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1630 0 R /K 1631 0 R>> /AP (4.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 713.527 298.755 727.668] /Subtype /Widget /T (13) /TU () /V
-  (26.00)>>
+  (4.00)>>
 endobj
 423 0 obj
 <</AA <</F 1628 0 R /K 1629 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2319,38 +2320,39 @@ endobj
   <>>>
 endobj
 428 0 obj
-<</AA <</F 1618 0 R /K 1619 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1618 0 R /K 1619 0 R>> /AP (2) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 701.676 44.216 715.917] /Subtype /Widget /T (19) /TU () /V <>>>
+  [20.514 701.676 44.216 715.917] /Subtype /Widget /T (19) /TU () /V (2)>>
 endobj
 429 0 obj
-<</AA <</F 1616 0 R /K 1617 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Rect
-  [44.514 701.676 231.734 715.917] /Subtype /Widget /T (20) /TU () /V <>>>
+<</AA <</F 1616 0 R /K 1617 0 R>> /AP (Depósito Bancário) /DA
+  (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R
+  /Rect [44.514 701.676 231.734 715.917] /Subtype /Widget /T (20) /TU ()
+  /V (Depósito Bancário)>>
 endobj
 430 0 obj
-<</AA <</F 1614 0 R /K 1615 0 R>> /AP (T) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1614 0 R /K 1615 0 R>> /AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Q 1 /Rect
   [232.133 701.676 249.759 715.917] /Subtype /Widget /T (21) /TU () /V
-  (T)>>
+  (D)>>
 endobj
 431 0 obj
-<</AA <</F 1612 0 R /K 1613 0 R>> /AP (52.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1612 0 R /K 1613 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 701.676 298.755 715.917] /Subtype /Widget /T (22) /TU () /V
-  (52.00)>>
+  <>>>
 endobj
 432 0 obj
-<</AA <</F 1610 0 R /K 1611 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1610 0 R /K 1611 0 R>> /AP (161.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 701.676 352.332 715.917] /Subtype /Widget /T (23) /TU () /V
-  <>>>
+  (161.00)>>
 endobj
 433 0 obj
-<</AA <</F 1608 0 R /K 1609 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1608 0 R /K 1609 0 R>> /AP (161.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 701.676 406.008 715.917] /Subtype /Widget /T (24) /TU () /V
-  <>>>
+  (161.00)>>
 endobj
 434 0 obj
 <</AA <</F 1606 0 R /K 1607 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2370,38 +2372,39 @@ endobj
   <>>>
 endobj
 437 0 obj
-<</AA <</F 1600 0 R /K 1601 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1600 0 R /K 1601 0 R>> /AP (2) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 689.627 44.216 703.867] /Subtype /Widget /T (28) /TU () /V <>>>
+  [20.514 689.627 44.216 703.867] /Subtype /Widget /T (28) /TU () /V (2)>>
 endobj
 438 0 obj
-<</AA <</F 1598 0 R /K 1599 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Rect
-  [44.514 689.627 231.734 703.867] /Subtype /Widget /T (29) /TU () /V <>>>
+<</AA <</F 1598 0 R /K 1599 0 R>> /AP (Depósito Bancário) /DA
+  (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Rect
+  [44.514 689.627 231.734 703.867] /Subtype /Widget /T (29) /TU () /V
+  (Depósito Bancário)>>
 endobj
 439 0 obj
-<</AA <</F 1596 0 R /K 1597 0 R>> /AP (CF) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1596 0 R /K 1597 0 R>> /AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Q 1 /Rect
   [232.133 689.627 249.759 703.867] /Subtype /Widget /T (30) /TU () /V
-  (CF)>>
+  (D)>>
 endobj
 440 0 obj
-<</AA <</F 1594 0 R /K 1595 0 R>> /AP (20.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1594 0 R /K 1595 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 689.627 298.755 703.867] /Subtype /Widget /T (31) /TU () /V
-  (20.00)>>
+  <>>>
 endobj
 441 0 obj
-<</AA <</F 1592 0 R /K 1593 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1592 0 R /K 1593 0 R>> /AP (365.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 689.627 352.332 703.867] /Subtype /Widget /T (32) /TU () /V
-  <>>>
+  (365.00)>>
 endobj
 442 0 obj
-<</AA <</F 1590 0 R /K 1591 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1590 0 R /K 1591 0 R>> /AP (365.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 689.627 406.008 703.867] /Subtype /Widget /T (33) /TU () /V
-  <>>>
+  (365.00)>>
 endobj
 443 0 obj
 <</AA <</F 1588 0 R /K 1589 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2421,19 +2424,19 @@ endobj
   <>>>
 endobj
 446 0 obj
-<</AA <</F 1582 0 R /K 1583 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1582 0 R /K 1583 0 R>> /AP (2) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 677.676 44.216 691.817] /Subtype /Widget /T (37) /TU () /V <>>>
+  [20.514 677.676 44.216 691.817] /Subtype /Widget /T (37) /TU () /V (2)>>
 endobj
 447 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 12582912 /MK <<>> /MaxLen
-  0 /P 5 0 R /Rect [44.514 677.676 231.734 691.817] /Subtype /Widget /T
-  (38) /TU () /V <>>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 12582912
+  /MK <<>> /MaxLen 0 /P 5 0 R /Rect [44.514 677.676 231.734 691.817]
+  /Subtype /Widget /T (38) /TU () /V (Depósito Bancário)>>
 endobj
 448 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 677.676 249.759 691.817] /Subtype /Widget /T
-  (39) /TU () /V (CE)>>
+  (39) /TU () /V (D)>>
 endobj
 449 0 obj
 <</AA <</F 1580 0 R /K 1581 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2442,16 +2445,16 @@ endobj
   <>>>
 endobj
 450 0 obj
-<</AA <</F 1578 0 R /K 1579 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1578 0 R /K 1579 0 R>> /AP (203.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 677.676 352.332 691.817] /Subtype /Widget /T (41) /TU () /V
-  <>>>
+  (203.00)>>
 endobj
 451 0 obj
-<</AA <</F 1576 0 R /K 1577 0 R>> /AP (50.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1576 0 R /K 1577 0 R>> /AP (203.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 677.676 406.008 691.817] /Subtype /Widget /T (42) /TU () /V
-  (50.00)>>
+  (203.00)>>
 endobj
 452 0 obj
 <</AA <</F 1574 0 R /K 1575 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2471,14 +2474,14 @@ endobj
   <>>>
 endobj
 455 0 obj
-<</AA <</F 1568 0 R /K 1569 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1568 0 R /K 1569 0 R>> /AP (2) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 665.826 44.216 680.066] /Subtype /Widget /T (46) /TU () /V <>>>
+  [20.514 665.826 44.216 680.066] /Subtype /Widget /T (46) /TU () /V (2)>>
 endobj
 456 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 665.826 231.734 680.066] /Subtype /Widget /T (47) /TU ()
-  /V <>>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 665.826 231.734 680.066] /Subtype
+  /Widget /T (47) /TU () /V (Depósito Bancário)>>
 endobj
 457 0 obj
 <</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
@@ -2492,16 +2495,16 @@ endobj
   <>>>
 endobj
 459 0 obj
-<</AA <</F 1564 0 R /K 1565 0 R>> /AP (277.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1564 0 R /K 1565 0 R>> /AP (197.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 665.826 352.332 680.066] /Subtype /Widget /T (50) /TU () /V
-  (277.00)>>
+  (197.00)>>
 endobj
 460 0 obj
-<</AA <</F 1562 0 R /K 1563 0 R>> /AP (277.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1562 0 R /K 1563 0 R>> /AP (197.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 665.826 406.008 680.066] /Subtype /Widget /T (51) /TU () /V
-  (277.00)>>
+  (197.00)>>
 endobj
 461 0 obj
 <</AA <</F 1560 0 R /K 1561 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2521,25 +2524,25 @@ endobj
   <>>>
 endobj
 464 0 obj
-<</AA <</F 1554 0 R /K 1555 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1554 0 R /K 1555 0 R>> /AP (4) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 653.975 44.216 668.116] /Subtype /Widget /T (55) /TU () /V <>>>
+  [20.514 653.975 44.216 668.116] /Subtype /Widget /T (55) /TU () /V (4)>>
 endobj
 465 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 653.975 231.734 668.116] /Subtype /Widget /T (56) /TU ()
-  /V <>>>
+<</AP (Donativos - Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 653.975 231.734 668.116]
+  /Subtype /Widget /T (56) /TU () /V (Donativos - Obra Mundial)>>
 endobj
 466 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 653.975 249.759 668.116] /Subtype /Widget /T
-  (57) /TU () /V (CE)>>
+  (57) /TU () /V (O)>>
 endobj
 467 0 obj
-<</AA <</F 1552 0 R /K 1553 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1552 0 R /K 1553 0 R>> /AP (40.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 653.975 298.755 668.116] /Subtype /Widget /T (58) /TU () /V
-  <>>>
+  (40.00)>>
 endobj
 468 0 obj
 <</AA <</F 1550 0 R /K 1551 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2548,10 +2551,10 @@ endobj
   <>>>
 endobj
 469 0 obj
-<</AA <</F 1548 0 R /K 1549 0 R>> /AP (150.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1548 0 R /K 1549 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 653.975 406.008 668.116] /Subtype /Widget /T (60) /TU () /V
-  (150.00)>>
+  <>>>
 endobj
 470 0 obj
 <</AA <</F 1546 0 R /K 1547 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2571,25 +2574,25 @@ endobj
   <>>>
 endobj
 473 0 obj
-<</AA <</F 1540 0 R /K 1541 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1540 0 R /K 1541 0 R>> /AP (4) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 641.925 44.216 656.066] /Subtype /Widget /T (64) /TU () /V <>>>
+  [20.514 641.925 44.216 656.066] /Subtype /Widget /T (64) /TU () /V (4)>>
 endobj
 474 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 641.925 231.734 656.066] /Subtype /Widget /T (65) /TU ()
-  /V <>>>
+<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 641.925 231.734 656.066]
+  /Subtype /Widget /T (65) /TU () /V (Donativos - Congregação)>>
 endobj
 475 0 obj
-<</AP (G) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 641.925 249.759 656.066] /Subtype /Widget /T
-  (66) /TU () /V (G)>>
+  (66) /TU () /V (C)>>
 endobj
 476 0 obj
-<</AA <</F 1538 0 R /K 1539 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1538 0 R /K 1539 0 R>> /AP (70.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 641.925 298.755 656.066] /Subtype /Widget /T (67) /TU () /V
-  <>>>
+  (70.00)>>
 endobj
 477 0 obj
 <</AA <</F 1536 0 R /K 1537 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2604,10 +2607,10 @@ endobj
   <>>>
 endobj
 479 0 obj
-<</AA <</F 1532 0 R /K 1533 0 R>> /AP (200.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1532 0 R /K 1533 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [413.577 641.925 459.884 656.066] /Subtype /Widget /T (70) /TU () /V
-  (200.00)>>
+  <>>>
 endobj
 480 0 obj
 <</AA <</F 1530 0 R /K 1531 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2621,25 +2624,26 @@ endobj
   <>>>
 endobj
 482 0 obj
-<</AA <</F 1526 0 R /K 1527 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1526 0 R /K 1527 0 R>> /AP (4) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 629.876 44.216 644.017] /Subtype /Widget /T (73) /TU () /V <>>>
+  [20.514 629.876 44.216 644.017] /Subtype /Widget /T (73) /TU () /V (4)>>
 endobj
 483 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 629.876 231.734 644.017] /Subtype /Widget /T (74) /TU ()
-  /V <>>>
+<</AP (Donativos - Renovação da Filial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Rect
+  [44.514 629.876 231.734 644.017] /Subtype /Widget /T (74) /TU () /V
+  (Donativos - Renovação da Filial)>>
 endobj
 484 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (CF) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 629.876 249.759 644.017] /Subtype /Widget /T
-  (75) /TU () /V (CE)>>
+  (75) /TU () /V (CF)>>
 endobj
 485 0 obj
-<</AA <</F 1524 0 R /K 1525 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1524 0 R /K 1525 0 R>> /AP (30.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 629.876 298.755 644.017] /Subtype /Widget /T (76) /TU () /V
-  <>>>
+  (30.00)>>
 endobj
 486 0 obj
 <</AA <</F 1522 0 R /K 1523 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2648,10 +2652,10 @@ endobj
   <>>>
 endobj
 487 0 obj
-<</AA <</F 1520 0 R /K 1521 0 R>> /AP (35.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1520 0 R /K 1521 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 629.876 406.008 644.017] /Subtype /Widget /T (78) /TU () /V
-  (35.00)>>
+  <>>>
 endobj
 488 0 obj
 <</AA <</F 1518 0 R /K 1519 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2671,25 +2675,25 @@ endobj
   <>>>
 endobj
 491 0 obj
-<</AA <</F 1512 0 R /K 1513 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1512 0 R /K 1513 0 R>> /AP (7) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 617.826 44.216 631.967] /Subtype /Widget /T (82) /TU () /V <>>>
+  [20.514 617.826 44.216 631.967] /Subtype /Widget /T (82) /TU () /V (7)>>
 endobj
 492 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 617.826 231.734 631.967] /Subtype /Widget /T (83) /TU ()
-  /V <>>>
+<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 617.826 231.734 631.967]
+  /Subtype /Widget /T (83) /TU () /V (Donativos - Congregação)>>
 endobj
 493 0 obj
-<</AP (G) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 617.826 249.759 631.967] /Subtype /Widget /T
-  (84) /TU () /V (G)>>
+  (84) /TU () /V (C)>>
 endobj
 494 0 obj
-<</AA <</F 1510 0 R /K 1511 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1510 0 R /K 1511 0 R>> /AP (150.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 617.826 298.755 631.967] /Subtype /Widget /T (85) /TU () /V
-  <>>>
+  (150.00)>>
 endobj
 495 0 obj
 <</AA <</F 1508 0 R /K 1509 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2704,10 +2708,10 @@ endobj
   <>>>
 endobj
 497 0 obj
-<</AA <</F 1504 0 R /K 1505 0 R>> /AP (175.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1504 0 R /K 1505 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [413.577 617.826 459.884 631.967] /Subtype /Widget /T (88) /TU () /V
-  (175.00)>>
+  <>>>
 endobj
 498 0 obj
 <</AA <</F 1502 0 R /K 1503 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2721,25 +2725,25 @@ endobj
   <>>>
 endobj
 500 0 obj
-<</AA <</F 1498 0 R /K 1499 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1498 0 R /K 1499 0 R>> /AP (7) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 606.075 44.216 620.216] /Subtype /Widget /T (91) /TU () /V <>>>
+  [20.514 606.075 44.216 620.216] /Subtype /Widget /T (91) /TU () /V (7)>>
 endobj
 501 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 606.075 231.734 620.216] /Subtype /Widget /T (92) /TU ()
-  /V <>>>
+<</AP (Donativos - Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 606.075 231.734 620.216]
+  /Subtype /Widget /T (92) /TU () /V (Donativos - Obra Mundial)>>
 endobj
 502 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 606.075 249.759 620.216] /Subtype /Widget /T
-  (93) /TU () /V (CE)>>
+  (93) /TU () /V (O)>>
 endobj
 503 0 obj
-<</AA <</F 1496 0 R /K 1497 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1496 0 R /K 1497 0 R>> /AP (40.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 606.075 298.755 620.216] /Subtype /Widget /T (94) /TU () /V
-  <>>>
+  (40.00)>>
 endobj
 504 0 obj
 <</AA <</F 1494 0 R /K 1495 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2748,10 +2752,10 @@ endobj
   <>>>
 endobj
 505 0 obj
-<</AA <</F 1492 0 R /K 1493 0 R>> /AP (109.50) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1492 0 R /K 1493 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 606.075 406.008 620.216] /Subtype /Widget /T (96) /TU () /V
-  (109.50)>>
+  <>>>
 endobj
 506 0 obj
 <</AA <</F 1490 0 R /K 1491 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2771,25 +2775,26 @@ endobj
   <>>>
 endobj
 509 0 obj
-<</AA <</F 1484 0 R /K 1485 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1484 0 R /K 1485 0 R>> /AP (11) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 594.025 44.216 608.166] /Subtype /Widget /T (100) /TU () /V <>>>
+  [20.514 594.025 44.216 608.166] /Subtype /Widget /T (100) /TU () /V
+  (11)>>
 endobj
 510 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 594.025 231.734 608.166] /Subtype /Widget /T (101) /TU
-  () /V <>>>
+<</AP (Donativos - Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 594.025 231.734 608.166]
+  /Subtype /Widget /T (101) /TU () /V (Donativos - Obra Mundial)>>
 endobj
 511 0 obj
-<</AP (G) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 594.025 249.759 608.166] /Subtype /Widget /T
-  (102) /TU () /V (G)>>
+  (102) /TU () /V (O)>>
 endobj
 512 0 obj
-<</AA <</F 1482 0 R /K 1483 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1482 0 R /K 1483 0 R>> /AP (50.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 594.025 298.755 608.166] /Subtype /Widget /T (103) /TU () /V
-  <>>>
+  (50.00)>>
 endobj
 513 0 obj
 <</AA <</F 1480 0 R /K 1481 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2804,10 +2809,10 @@ endobj
   <>>>
 endobj
 515 0 obj
-<</AA <</F 1476 0 R /K 1477 0 R>> /AP (250.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1476 0 R /K 1477 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [413.577 594.025 459.884 608.166] /Subtype /Widget /T (106) /TU () /V
-  (250.00)>>
+  <>>>
 endobj
 516 0 obj
 <</AA <</F 1474 0 R /K 1475 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2822,25 +2827,26 @@ endobj
   <>>>
 endobj
 518 0 obj
-<</AA <</F 1470 0 R /K 1471 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1470 0 R /K 1471 0 R>> /AP (11) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 582.075 44.216 596.315] /Subtype /Widget /T (109) /TU () /V <>>>
+  [20.514 582.075 44.216 596.315] /Subtype /Widget /T (109) /TU () /V
+  (11)>>
 endobj
 519 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 582.075 231.734 596.315] /Subtype /Widget /T (110) /TU
-  () /V <>>>
+<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 582.075 231.734 596.315]
+  /Subtype /Widget /T (110) /TU () /V (Donativos - Congregação)>>
 endobj
 520 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 582.075 249.759 596.315] /Subtype /Widget /T
-  (111) /TU () /V (CE)>>
+  (111) /TU () /V (C)>>
 endobj
 521 0 obj
-<</AA <</F 1468 0 R /K 1469 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1468 0 R /K 1469 0 R>> /AP (72.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 582.075 298.755 596.315] /Subtype /Widget /T (112) /TU () /V
-  <>>>
+  (72.00)>>
 endobj
 522 0 obj
 <</AA <</F 1466 0 R /K 1467 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2849,10 +2855,10 @@ endobj
   <>>>
 endobj
 523 0 obj
-<</AA <</F 1464 0 R /K 1465 0 R>> /AP (300.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1464 0 R /K 1465 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 582.075 406.008 596.315] /Subtype /Widget /T (114) /TU () /V
-  (300.00)>>
+  <>>>
 endobj
 524 0 obj
 <</AA <</F 1462 0 R /K 1463 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2873,25 +2879,27 @@ endobj
   <>>>
 endobj
 527 0 obj
-<</AA <</F 1456 0 R /K 1457 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1456 0 R /K 1457 0 R>> /AP (11) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 570.025 44.216 584.266] /Subtype /Widget /T (118) /TU () /V <>>>
+  [20.514 570.025 44.216 584.266] /Subtype /Widget /T (118) /TU () /V
+  (11)>>
 endobj
 528 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 570.025 231.734 584.266] /Subtype /Widget /T (119) /TU
-  () /V <>>>
+<</AP (Donativos - Renovação da Filial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Rect
+  [44.514 570.025 231.734 584.266] /Subtype /Widget /T (119) /TU () /V
+  (Donativos - Renovação da Filial)>>
 endobj
 529 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (CF) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 570.025 249.759 584.266] /Subtype /Widget /T
-  (120) /TU () /V (CE)>>
+  (120) /TU () /V (CF)>>
 endobj
 530 0 obj
-<</AA <</F 1454 0 R /K 1455 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1454 0 R /K 1455 0 R>> /AP (70.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 570.025 298.755 584.266] /Subtype /Widget /T (121) /TU () /V
-  <>>>
+  (70.00)>>
 endobj
 531 0 obj
 <</AA <</F 1452 0 R /K 1453 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2900,10 +2908,10 @@ endobj
   <>>>
 endobj
 532 0 obj
-<</AA <</F 1450 0 R /K 1451 0 R>> /AP (50.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1450 0 R /K 1451 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 570.025 406.008 584.266] /Subtype /Widget /T (123) /TU () /V
-  (50.00)>>
+  <>>>
 endobj
 533 0 obj
 <</AA <</F 1448 0 R /K 1449 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2924,25 +2932,26 @@ endobj
   <>>>
 endobj
 536 0 obj
-<</AA <</F 1442 0 R /K 1443 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1442 0 R /K 1443 0 R>> /AP (14) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 558.274 44.216 572.515] /Subtype /Widget /T (127) /TU () /V <>>>
+  [20.514 558.274 44.216 572.515] /Subtype /Widget /T (127) /TU () /V
+  (14)>>
 endobj
 537 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 558.274 231.734 572.515] /Subtype /Widget /T (128) /TU
-  () /V <>>>
+<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 558.274 231.734 572.515]
+  /Subtype /Widget /T (128) /TU () /V (Donativos - Congregação)>>
 endobj
 538 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Q 1 /Rect [232.133 558.274 249.759 572.515] /Subtype /Widget /T (129)
-  /TU () /V <>>>
+<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+  5 0 R /Q 1 /Rect [232.133 558.274 249.759 572.515] /Subtype /Widget /T
+  (129) /TU () /V (C)>>
 endobj
 539 0 obj
-<</AA <</F 1440 0 R /K 1441 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1440 0 R /K 1441 0 R>> /AP (22.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 558.274 298.755 572.515] /Subtype /Widget /T (130) /TU () /V
-  <>>>
+  (22.00)>>
 endobj
 540 0 obj
 <</AA <</F 1438 0 R /K 1439 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2957,10 +2966,10 @@ endobj
   <>>>
 endobj
 542 0 obj
-<</AA <</F 1434 0 R /K 1435 0 R>> /AP (786.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1434 0 R /K 1435 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [413.577 558.274 459.884 572.515] /Subtype /Widget /T (133) /TU () /V
-  (786.00)>>
+  <>>>
 endobj
 543 0 obj
 <</AA <</F 1432 0 R /K 1433 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -2975,14 +2984,15 @@ endobj
   <>>>
 endobj
 545 0 obj
-<</AA <</F 1428 0 R /K 1429 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1428 0 R /K 1429 0 R>> /AP (14) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 546.224 44.216 560.465] /Subtype /Widget /T (136) /TU () /V <>>>
+  [20.514 546.224 44.216 560.465] /Subtype /Widget /T (136) /TU () /V
+  (14)>>
 endobj
 546 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 546.224 231.734 560.465] /Subtype /Widget /T (137) /TU
-  () /V <>>>
+<</AP (Donativos - Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 546.224 231.734 560.465]
+  /Subtype /Widget /T (137) /TU () /V (Donativos - Obra Mundial)>>
 endobj
 547 0 obj
 <</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
@@ -2990,10 +3000,10 @@ endobj
   (138) /TU () /V (O)>>
 endobj
 548 0 obj
-<</AA <</F 1426 0 R /K 1427 0 R>> /AP (30.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1426 0 R /K 1427 0 R>> /AP (5.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 546.224 298.755 560.465] /Subtype /Widget /T (139) /TU () /V
-  (30.00)>>
+  (5.00)>>
 endobj
 549 0 obj
 <</AA <</F 1424 0 R /K 1425 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3026,26 +3036,26 @@ endobj
   <>>>
 endobj
 554 0 obj
-<</AA <</F 1414 0 R /K 1415 0 R>> /AP (2) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1414 0 R /K 1415 0 R>> /AP (18) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 534.174 44.216 548.415] /Subtype /Widget /T (145) /TU () /V
-  (2)>>
+  (18)>>
 endobj
 555 0 obj
-<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+<</AP (Donativos - Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
   8388608 /MK <<>> /P 5 0 R /Rect [44.514 534.174 231.734 548.415]
-  /Subtype /Widget /T (146) /TU () /V (Donativos - Congregação)>>
+  /Subtype /Widget /T (146) /TU () /V (Donativos - Obra Mundial)>>
 endobj
 556 0 obj
-<</AP (CF) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 534.174 249.759 548.415] /Subtype /Widget /T
-  (147) /TU () /V (CF)>>
+  (147) /TU () /V (O)>>
 endobj
 557 0 obj
-<</AA <</F 1412 0 R /K 1413 0 R>> /AP (20.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1412 0 R /K 1413 0 R>> /AP (2.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 534.174 298.755 548.415] /Subtype /Widget /T (148) /TU () /V
-  (20.00)>>
+  (2.00)>>
 endobj
 558 0 obj
 <</AA <</F 1410 0 R /K 1411 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3078,10 +3088,10 @@ endobj
   <>>>
 endobj
 563 0 obj
-<</AA <</F 1400 0 R /K 1401 0 R>> /AP (2) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1400 0 R /K 1401 0 R>> /AP (18) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 522.324 44.216 536.465] /Subtype /Widget /T (154) /TU () /V
-  (2)>>
+  (18)>>
 endobj
 564 0 obj
 <</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
@@ -3094,10 +3104,10 @@ endobj
   (156) /TU () /V (C)>>
 endobj
 566 0 obj
-<</AA <</F 1398 0 R /K 1399 0 R>> /AP (200.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1398 0 R /K 1399 0 R>> /AP (11.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 522.324 298.755 536.465] /Subtype /Widget /T (157) /TU () /V
-  (200.00)>>
+  (11.00)>>
 endobj
 567 0 obj
 <</AA <</F 1396 0 R /K 1397 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3130,26 +3140,26 @@ endobj
   <>>>
 endobj
 572 0 obj
-<</AA <</F 1386 0 R /K 1387 0 R>> /AP (2) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1386 0 R /K 1387 0 R>> /AP (20) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 510.573 44.216 524.714] /Subtype /Widget /T (163) /TU () /V
-  (2)>>
+  (20)>>
 endobj
 573 0 obj
-<</AP (Donativos - Transporte) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
   8388608 /MK <<>> /P 5 0 R /Rect [44.514 510.573 231.734 524.714]
-  /Subtype /Widget /T (164) /TU () /V (Donativos - Transporte)>>
+  /Subtype /Widget /T (164) /TU () /V (Donativos - Congregação)>>
 endobj
 574 0 obj
-<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /MK <<>> /P 5 0 R /Parent 1385 0 R
+<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /MK <<>> /P 5 0 R /Parent 1385 0 R
   /Q 1 /Rect [232.133 510.573 249.759 524.714] /Subtype /Widget /TU ()
-  /V (O)>>
+  /V (CE)>>
 endobj
 575 0 obj
-<</AA <</F 1383 0 R /K 1384 0 R>> /AP (55.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1383 0 R /K 1384 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 510.573 298.755 524.714] /Subtype /Widget /T (166) /TU () /V
-  (55.00)>>
+  <>>>
 endobj
 576 0 obj
 <</AA <</F 1381 0 R /K 1382 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3158,10 +3168,10 @@ endobj
   <>>>
 endobj
 577 0 obj
-<</AA <</F 1379 0 R /K 1380 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1379 0 R /K 1380 0 R>> /AP (100.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 510.573 406.008 524.714] /Subtype /Widget /T (168) /TU () /V
-  <>>>
+  (100.00)>>
 endobj
 578 0 obj
 <</AA <</F 1377 0 R /K 1378 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3182,10 +3192,10 @@ endobj
   <>>>
 endobj
 581 0 obj
-<</AA <</F 1371 0 R /K 1372 0 R>> /AP (3) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1371 0 R /K 1372 0 R>> /AP (21) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 498.523 44.216 512.664] /Subtype /Widget /T (172) /TU () /V
-  (3)>>
+  (21)>>
 endobj
 582 0 obj
 <</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
@@ -3193,15 +3203,15 @@ endobj
   /Subtype /Widget /T (173) /TU () /V (Donativos - Congregação)>>
 endobj
 583 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 498.523 249.759 512.664] /Subtype /Widget /T
-  (174) /TU () /V (CE)>>
+  (174) /TU () /V (C)>>
 endobj
 584 0 obj
-<</AA <</F 1369 0 R /K 1370 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1369 0 R /K 1370 0 R>> /AP (27.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 498.523 298.755 512.664] /Subtype /Widget /T (175) /TU () /V
-  <>>>
+  (27.00)>>
 endobj
 585 0 obj
 <</AA <</F 1367 0 R /K 1368 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3210,10 +3220,10 @@ endobj
   <>>>
 endobj
 586 0 obj
-<</AA <</F 1365 0 R /K 1366 0 R>> /AP (30.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1365 0 R /K 1366 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 498.523 406.008 512.664] /Subtype /Widget /T (177) /TU () /V
-  (30.00)>>
+  <>>>
 endobj
 587 0 obj
 <</AA <</F 1363 0 R /K 1364 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3234,26 +3244,26 @@ endobj
   <>>>
 endobj
 590 0 obj
-<</AA <</F 1357 0 R /K 1358 0 R>> /AP (4) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1357 0 R /K 1358 0 R>> /AP (21) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 486.573 44.216 500.714] /Subtype /Widget /T (181) /TU () /V
-  (4)>>
+  (21)>>
 endobj
 591 0 obj
-<</AP (Des) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
-  5 0 R /Rect [44.514 486.573 231.734 500.714] /Subtype /Widget /T (182)
-  /TU () /V (Des)>>
+<</AP (Donativos - Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 486.573 231.734 500.714]
+  /Subtype /Widget /T (182) /TU () /V (Donativos - Obra Mundial)>>
 endobj
 592 0 obj
-<</AP (G) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 486.573 249.759 500.714] /Subtype /Widget /T
-  (183) /TU () /V (G)>>
+  (183) /TU () /V (O)>>
 endobj
 593 0 obj
-<</AA <</F 1355 0 R /K 1356 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1355 0 R /K 1356 0 R>> /AP (11.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 486.573 298.755 500.714] /Subtype /Widget /T (184) /TU () /V
-  <>>>
+  (11.00)>>
 endobj
 594 0 obj
 <</AA <</F 1353 0 R /K 1354 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3268,10 +3278,10 @@ endobj
   <>>>
 endobj
 596 0 obj
-<</AA <</F 1349 0 R /K 1350 0 R>> /AP (426.88) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1349 0 R /K 1350 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [413.577 486.573 459.884 500.714] /Subtype /Widget /T (187) /TU () /V
-  (426.88)>>
+  <>>>
 endobj
 597 0 obj
 <</AA <</F 1347 0 R /K 1348 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3286,26 +3296,27 @@ endobj
   <>>>
 endobj
 599 0 obj
-<</AA <</F 1343 0 R /K 1344 0 R>> /AP (5) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1343 0 R /K 1344 0 R>> /AP (21) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 474.523 44.216 488.664] /Subtype /Widget /T (190) /TU () /V
-  (5)>>
+  (21)>>
 endobj
 600 0 obj
-<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
-  5 0 R /Rect [44.514 474.523 231.734 488.664] /Subtype /Widget /T (191)
-  /TU () /V (D)>>
+<</AP (Donativos - Renovação da Filial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Rect
+  [44.514 474.523 231.734 488.664] /Subtype /Widget /T (191) /TU () /V
+  (Donativos - Renovação da Filial)>>
 endobj
 601 0 obj
-<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (CF) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 474.523 249.759 488.664] /Subtype /Widget /T
-  (192) /TU () /V (C)>>
+  (192) /TU () /V (CF)>>
 endobj
 602 0 obj
-<</AA <</F 1341 0 R /K 1342 0 R>> /AP (26.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1341 0 R /K 1342 0 R>> /AP (10.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 474.523 298.755 488.664] /Subtype /Widget /T (193) /TU () /V
-  (26.00)>>
+  (10.00)>>
 endobj
 603 0 obj
 <</AA <</F 1339 0 R /K 1340 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3338,15 +3349,15 @@ endobj
   <>>>
 endobj
 608 0 obj
-<</AA <</F 1329 0 R /K 1330 0 R>> /AP (9) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1329 0 R /K 1330 0 R>> /AP (23) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 462.672 44.216 476.813] /Subtype /Widget /T (199) /TU () /V
-  (9)>>
+  (23)>>
 endobj
 609 0 obj
-<</AP (Dep) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
-  5 0 R /Rect [44.514 462.672 231.734 476.813] /Subtype /Widget /T (200)
-  /TU () /V (Dep)>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 462.672 231.734 476.813] /Subtype
+  /Widget /T (200) /TU () /V (Depósito Bancário)>>
 endobj
 610 0 obj
 <</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
@@ -3360,16 +3371,16 @@ endobj
   <>>>
 endobj
 612 0 obj
-<</AA <</F 1325 0 R /K 1326 0 R>> /AP (275.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1325 0 R /K 1326 0 R>> /AP (192.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 462.672 352.332 476.813] /Subtype /Widget /T (203) /TU () /V
-  (275.00)>>
+  (192.00)>>
 endobj
 613 0 obj
-<</AA <</F 1323 0 R /K 1324 0 R>> /AP (275.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1323 0 R /K 1324 0 R>> /AP (192.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 462.672 406.008 476.813] /Subtype /Widget /T (204) /TU () /V
-  (275.00)>>
+  (192.00)>>
 endobj
 614 0 obj
 <</AA <</F 1321 0 R /K 1322 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3390,38 +3401,38 @@ endobj
   <>>>
 endobj
 617 0 obj
-<</AA <</F 1315 0 R /K 1316 0 R>> /AP (9) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1315 0 R /K 1316 0 R>> /AP (23) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 450.622 44.216 464.763] /Subtype /Widget /T (208) /TU () /V
-  (9)>>
+  (23)>>
 endobj
 618 0 obj
-<</AP (des) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
-  5 0 R /Rect [44.514 450.622 231.734 464.763] /Subtype /Widget /T (209)
-  /TU () /V (des)>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 450.622 231.734 464.763] /Subtype
+  /Widget /T (209) /TU () /V (Depósito Bancário)>>
 endobj
 619 0 obj
-<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 450.622 249.759 464.763] /Subtype /Widget /T
-  (210) /TU () /V (O)>>
+  (210) /TU () /V (D)>>
 endobj
 620 0 obj
-<</AA <</F 1313 0 R /K 1314 0 R>> /AP (125.00) /DA (/TiRo 0 Tf 0 g) /F 4
-  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1313 0 R /K 1314 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 450.622 298.755 464.763] /Subtype /Widget /T (211) /TU () /V
-  (125.00)>>
+  <>>>
 endobj
 621 0 obj
-<</AA <</F 1311 0 R /K 1312 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1311 0 R /K 1312 0 R>> /AP (27.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 450.622 352.332 464.763] /Subtype /Widget /T (212) /TU () /V
-  <>>>
+  (27.00)>>
 endobj
 622 0 obj
-<</AA <</F 1309 0 R /K 1310 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1309 0 R /K 1310 0 R>> /AP (27.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 450.622 406.008 464.763] /Subtype /Widget /T (213) /TU () /V
-  <>>>
+  (27.00)>>
 endobj
 623 0 obj
 <</AA <</F 1307 0 R /K 1308 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3442,15 +3453,15 @@ endobj
   <>>>
 endobj
 626 0 obj
-<</AA <</F 1301 0 R /K 1302 0 R>> /AP (10) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1301 0 R /K 1302 0 R>> /AP (23) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 438.672 44.216 452.813] /Subtype /Widget /T (217) /TU () /V
-  (10)>>
+  (23)>>
 endobj
 627 0 obj
-<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
-  8388608 /MK <<>> /P 5 0 R /Rect [44.514 438.672 231.734 452.813]
-  /Subtype /Widget /T (218) /TU () /V (Donativos - Congregação)>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 438.672 231.734 452.813] /Subtype
+  /Widget /T (218) /TU () /V (Depósito Bancário)>>
 endobj
 628 0 obj
 <</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
@@ -3464,16 +3475,16 @@ endobj
   <>>>
 endobj
 630 0 obj
-<</AA <</F 1297 0 R /K 1298 0 R>> /AP (326.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1297 0 R /K 1298 0 R>> /AP (24.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 438.672 352.332 452.813] /Subtype /Widget /T (221) /TU () /V
-  (326.00)>>
+  (24.00)>>
 endobj
 631 0 obj
-<</AA <</F 1295 0 R /K 1296 0 R>> /AP (326.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1295 0 R /K 1296 0 R>> /AP (24.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 438.672 406.008 452.813] /Subtype /Widget /T (222) /TU () /V
-  (326.00)>>
+  (24.00)>>
 endobj
 632 0 obj
 <</AA <</F 1293 0 R /K 1294 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3494,20 +3505,20 @@ endobj
   <>>>
 endobj
 635 0 obj
-<</AA <</F 1287 0 R /K 1288 0 R>> /AP (10) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1287 0 R /K 1288 0 R>> /AP (23) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 426.722 44.216 440.963] /Subtype /Widget /T (226) /TU () /V
-  (10)>>
+  (23)>>
 endobj
 636 0 obj
-<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
-  8388608 /MK <<>> /P 5 0 R /Rect [44.514 426.722 231.734 440.963]
-  /Subtype /Widget /T (227) /TU () /V (Donativos - Congregação)>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 426.722 231.734 440.963] /Subtype
+  /Widget /T (227) /TU () /V (Depósito Bancário)>>
 endobj
 637 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 426.722 249.759 440.963] /Subtype /Widget /T
-  (228) /TU () /V (CE)>>
+  (228) /TU () /V (D)>>
 endobj
 638 0 obj
 <</AA <</F 1285 0 R /K 1286 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3516,16 +3527,16 @@ endobj
   <>>>
 endobj
 639 0 obj
-<</AA <</F 1283 0 R /K 1284 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1283 0 R /K 1284 0 R>> /AP (140.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 426.722 352.332 440.963] /Subtype /Widget /T (230) /TU () /V
-  <>>>
+  (140.00)>>
 endobj
 640 0 obj
-<</AA <</F 1281 0 R /K 1282 0 R>> /AP (50.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1281 0 R /K 1282 0 R>> /AP (140.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 426.722 406.008 440.963] /Subtype /Widget /T (231) /TU () /V
-  (50.00)>>
+  (140.00)>>
 endobj
 641 0 obj
 <</AA <</F 1279 0 R /K 1280 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3546,15 +3557,15 @@ endobj
   <>>>
 endobj
 644 0 obj
-<</AA <</F 1273 0 R /K 1274 0 R>> /AP (10) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1273 0 R /K 1274 0 R>> /AP (23) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 414.871 44.216 429.012] /Subtype /Widget /T (235) /TU () /V
-  (10)>>
+  (23)>>
 endobj
 645 0 obj
-<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
-  8388608 /MK <<>> /P 5 0 R /Rect [44.514 414.871 231.734 429.012]
-  /Subtype /Widget /T (236) /TU () /V (Donativos - Congregação)>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 414.871 231.734 429.012] /Subtype
+  /Widget /T (236) /TU () /V (Depósito Bancário)>>
 endobj
 646 0 obj
 <</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
@@ -3568,16 +3579,16 @@ endobj
   <>>>
 endobj
 648 0 obj
-<</AA <</F 1269 0 R /K 1270 0 R>> /AP (193.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1269 0 R /K 1270 0 R>> /AP (190.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 414.871 352.332 429.012] /Subtype /Widget /T (239) /TU () /V
-  (193.00)>>
+  (190.00)>>
 endobj
 649 0 obj
-<</AA <</F 1267 0 R /K 1268 0 R>> /AP (193.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1267 0 R /K 1268 0 R>> /AP (190.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 414.871 406.008 429.012] /Subtype /Widget /T (240) /TU () /V
-  (193.00)>>
+  (190.00)>>
 endobj
 650 0 obj
 <</AA <</F 1265 0 R /K 1266 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3598,20 +3609,20 @@ endobj
   <>>>
 endobj
 653 0 obj
-<</AA <</F 1259 0 R /K 1260 0 R>> /AP (10) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1259 0 R /K 1260 0 R>> /AP (23) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 402.822 44.216 416.963] /Subtype /Widget /T (244) /TU () /V
-  (10)>>
+  (23)>>
 endobj
 654 0 obj
-<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
-  8388608 /MK <<>> /P 5 0 R /Rect [44.514 402.822 231.734 416.963]
-  /Subtype /Widget /T (245) /TU () /V (Donativos - Congregação)>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 402.822 231.734 416.963] /Subtype
+  /Widget /T (245) /TU () /V (Depósito Bancário)>>
 endobj
 655 0 obj
-<</AP (CE) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 402.822 249.759 416.963] /Subtype /Widget /T
-  (246) /TU () /V (CE)>>
+  (246) /TU () /V (D)>>
 endobj
 656 0 obj
 <</AA <</F 1257 0 R /K 1258 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3620,16 +3631,16 @@ endobj
   <>>>
 endobj
 657 0 obj
-<</AA <</F 1255 0 R /K 1256 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1255 0 R /K 1256 0 R>> /AP (100.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 402.822 352.332 416.963] /Subtype /Widget /T (248) /TU () /V
-  <>>>
+  (100.00)>>
 endobj
 658 0 obj
-<</AA <</F 1253 0 R /K 1254 0 R>> /AP (50.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1253 0 R /K 1254 0 R>> /AP (100.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 402.822 406.008 416.963] /Subtype /Widget /T (249) /TU () /V
-  (50.00)>>
+  (100.00)>>
 endobj
 659 0 obj
 <</AA <</F 1251 0 R /K 1252 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3650,26 +3661,26 @@ endobj
   <>>>
 endobj
 662 0 obj
-<</AA <</F 1245 0 R /K 1246 0 R>> /AP (16) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1245 0 R /K 1246 0 R>> /AP (25) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 390.871 44.216 405.112] /Subtype /Widget /T (253) /TU () /V
-  (16)>>
+  (25)>>
 endobj
 663 0 obj
-<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
-  /MK <<>> /P 5 0 R /Rect [44.514 390.871 231.734 405.112] /Subtype
-  /Widget /T (254) /TU () /V (Depósito Bancário)>>
+<</AP (Donativos - Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 390.871 231.734 405.112]
+  /Subtype /Widget /T (254) /TU () /V (Donativos - Obra Mundial)>>
 endobj
 664 0 obj
-<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (O) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 390.871 249.759 405.112] /Subtype /Widget /T
-  (255) /TU () /V (C)>>
+  (255) /TU () /V (O)>>
 endobj
 665 0 obj
-<</AA <</F 1243 0 R /K 1244 0 R>> /AP (165.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1243 0 R /K 1244 0 R>> /AP (50.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 390.871 298.755 405.112] /Subtype /Widget /T (256) /TU () /V
-  (165.00)>>
+  (50.00)>>
 endobj
 666 0 obj
 <</AA <</F 1241 0 R /K 1242 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3702,26 +3713,26 @@ endobj
   <>>>
 endobj
 671 0 obj
-<</AA <</F 1231 0 R /K 1232 0 R>> /AP (16) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1231 0 R /K 1232 0 R>> /AP (25) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
   [20.514 378.822 44.216 393.062] /Subtype /Widget /T (262) /TU () /V
-  (16)>>
+  (25)>>
 endobj
 672 0 obj
-<</AP (Donativos para Obra Mundial) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx
-  /Ff 8388608 /MK <<>> /P 5 0 R /Rect [44.514 378.822 231.734 393.062]
-  /Subtype /Widget /T (263) /TU () /V (Donativos para Obra Mundial)>>
+<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 378.822 231.734 393.062]
+  /Subtype /Widget /T (263) /TU () /V (Donativos - Congregação)>>
 endobj
 673 0 obj
-<</AP (CF) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
   5 0 R /Q 1 /Rect [232.133 378.822 249.759 393.062] /Subtype /Widget /T
-  (264) /TU () /V (CF)>>
+  (264) /TU () /V (C)>>
 endobj
 674 0 obj
-<</AA <</F 1229 0 R /K 1230 0 R>> /AP (10.00) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 1229 0 R /K 1230 0 R>> /AP (65.00) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Q 2 /Rect
   [252.448 378.822 298.755 393.062] /Subtype /Widget /T (265) /TU () /V
-  (10.00)>>
+  (65.00)>>
 endobj
 675 0 obj
 <</AA <</F 1227 0 R /K 1228 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3754,25 +3765,26 @@ endobj
   <>>>
 endobj
 680 0 obj
-<</AA <</F 1217 0 R /K 1218 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1217 0 R /K 1218 0 R>> /AP (28) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 366.971 44.216 381.112] /Subtype /Widget /T (271) /TU () /V <>>>
+  [20.514 366.971 44.216 381.112] /Subtype /Widget /T (271) /TU () /V
+  (28)>>
 endobj
 681 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 366.971 231.734 381.112] /Subtype /Widget /T (272) /TU
-  () /V <>>>
+<</AP (Donativos - Congregação) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 366.971 231.734 381.112]
+  /Subtype /Widget /T (272) /TU () /V (Donativos - Congregação)>>
 endobj
 682 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Q 1 /Rect [232.133 366.971 249.759 381.112] /Subtype /Widget /T (273)
-  /TU () /V <>>>
+<</AP (C) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+  5 0 R /Q 1 /Rect [232.133 366.971 249.759 381.112] /Subtype /Widget /T
+  (273) /TU () /V (C)>>
 endobj
 683 0 obj
-<</AA <</F 1215 0 R /K 1216 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1215 0 R /K 1216 0 R>> /AP (45.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [252.448 366.971 298.755 381.112] /Subtype /Widget /T (274) /TU () /V
-  <>>>
+  (45.00)>>
 endobj
 684 0 obj
 <</AA <</F 1213 0 R /K 1214 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3805,19 +3817,20 @@ endobj
   <>>>
 endobj
 689 0 obj
-<</AA <</F 1203 0 R /K 1204 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1203 0 R /K 1204 0 R>> /AP (31) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 355.22 44.216 369.361] /Subtype /Widget /T (280) /TU () /V <>>>
+  [20.514 355.22 44.216 369.361] /Subtype /Widget /T (280) /TU () /V
+  (31)>>
 endobj
 690 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 355.22 231.734 369.361] /Subtype /Widget /T (281) /TU ()
-  /V <>>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 355.22 231.734 369.361] /Subtype
+  /Widget /T (281) /TU () /V (Depósito Bancário)>>
 endobj
 691 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Q 1 /Rect [232.133 355.22 249.759 369.361] /Subtype /Widget /T (282)
-  /TU () /V <>>>
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+  5 0 R /Q 1 /Rect [232.133 355.22 249.759 369.361] /Subtype /Widget /T
+  (282) /TU () /V (D)>>
 endobj
 692 0 obj
 <</AA <</F 1201 0 R /K 1202 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3826,16 +3839,16 @@ endobj
   <>>>
 endobj
 693 0 obj
-<</AA <</F 1199 0 R /K 1200 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1199 0 R /K 1200 0 R>> /AP (45.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 355.22 352.332 369.361] /Subtype /Widget /T (284) /TU () /V
-  <>>>
+  (45.00)>>
 endobj
 694 0 obj
-<</AA <</F 1197 0 R /K 1198 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1197 0 R /K 1198 0 R>> /AP (45.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 355.22 406.008 369.361] /Subtype /Widget /T (285) /TU () /V
-  <>>>
+  (45.00)>>
 endobj
 695 0 obj
 <</AA <</F 1195 0 R /K 1196 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3855,19 +3868,19 @@ endobj
   <>>>
 endobj
 698 0 obj
-<</AA <</F 1189 0 R /K 1190 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1189 0 R /K 1190 0 R>> /AP (31) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 343.27 44.216 357.51] /Subtype /Widget /T (289) /TU () /V <>>>
+  [20.514 343.27 44.216 357.51] /Subtype /Widget /T (289) /TU () /V (31)>>
 endobj
 699 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 343.27 231.734 357.51] /Subtype /Widget /T (290) /TU ()
-  /V <>>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 343.27 231.734 357.51] /Subtype
+  /Widget /T (290) /TU () /V (Depósito Bancário)>>
 endobj
 700 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Q 1 /Rect [232.133 343.27 249.759 357.51] /Subtype /Widget /T (291)
-  /TU () /V <>>>
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+  5 0 R /Q 1 /Rect [232.133 343.27 249.759 357.51] /Subtype /Widget /T
+  (291) /TU () /V (D)>>
 endobj
 701 0 obj
 <</AA <</F 1187 0 R /K 1188 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3875,14 +3888,16 @@ endobj
   [252.448 343.27 298.755 357.51] /Subtype /Widget /T (292) /TU () /V <>>>
 endobj
 702 0 obj
-<</AA <</F 1185 0 R /K 1186 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
-  [306.025 343.27 352.332 357.51] /Subtype /Widget /T (293) /TU () /V <>>>
+<</AA <</F 1185 0 R /K 1186 0 R>> /AP (13.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+  [306.025 343.27 352.332 357.51] /Subtype /Widget /T (293) /TU () /V
+  (13.00)>>
 endobj
 703 0 obj
-<</AA <</F 1183 0 R /K 1184 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
-  [359.701 343.27 406.008 357.51] /Subtype /Widget /T (294) /TU () /V <>>>
+<</AA <</F 1183 0 R /K 1184 0 R>> /AP (13.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+  [359.701 343.27 406.008 357.51] /Subtype /Widget /T (294) /TU () /V
+  (13.00)>>
 endobj
 704 0 obj
 <</AA <</F 1181 0 R /K 1182 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3900,19 +3915,20 @@ endobj
   [521.029 343.27 567.336 357.51] /Subtype /Widget /T (297) /TU () /V <>>>
 endobj
 707 0 obj
-<</AA <</F 1175 0 R /K 1176 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1175 0 R /K 1176 0 R>> /AP (31) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 331.22 44.216 345.461] /Subtype /Widget /T (298) /TU () /V <>>>
+  [20.514 331.22 44.216 345.461] /Subtype /Widget /T (298) /TU () /V
+  (31)>>
 endobj
 708 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 331.22 231.734 345.461] /Subtype /Widget /T (299) /TU ()
-  /V <>>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 331.22 231.734 345.461] /Subtype
+  /Widget /T (299) /TU () /V (Depósito Bancário)>>
 endobj
 709 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Q 1 /Rect [232.133 331.22 249.759 345.461] /Subtype /Widget /T (300)
-  /TU () /V <>>>
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+  5 0 R /Q 1 /Rect [232.133 331.22 249.759 345.461] /Subtype /Widget /T
+  (300) /TU () /V (D)>>
 endobj
 710 0 obj
 <</AA <</F 1173 0 R /K 1174 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3921,16 +3937,16 @@ endobj
   <>>>
 endobj
 711 0 obj
-<</AA <</F 1171 0 R /K 1172 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1171 0 R /K 1172 0 R>> /AP (115.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 331.22 352.332 345.461] /Subtype /Widget /T (302) /TU () /V
-  <>>>
+  (115.00)>>
 endobj
 712 0 obj
-<</AA <</F 1169 0 R /K 1170 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1169 0 R /K 1170 0 R>> /AP (115.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 331.22 406.008 345.461] /Subtype /Widget /T (303) /TU () /V
-  <>>>
+  (115.00)>>
 endobj
 713 0 obj
 <</AA <</F 1167 0 R /K 1168 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3950,19 +3966,19 @@ endobj
   <>>>
 endobj
 716 0 obj
-<</AA <</F 1160 0 R /K 1161 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /MK
+<</AA <</F 1160 0 R /K 1161 0 R>> /AP (31) /DA (/TiRo 0 Tf 0 g) /F 4 /MK
   <<>> /P 5 0 R /Parent 1162 0 R /Q 1 /Rect
-  [20.514 319.17 44.216 333.411] /Subtype /Widget /TU () /V <>>>
+  [20.514 319.17 44.216 333.411] /Subtype /Widget /TU () /V (31)>>
 endobj
 717 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 319.17 231.734 333.411] /Subtype /Widget /T (308) /TU ()
-  /V <>>>
+<</AP (Depósito Bancário) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608
+  /MK <<>> /P 5 0 R /Rect [44.514 319.17 231.734 333.411] /Subtype
+  /Widget /T (308) /TU () /V (Depósito Bancário)>>
 endobj
 718 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Q 1 /Rect [232.133 319.17 249.759 333.411] /Subtype /Widget /T (309)
-  /TU () /V <>>>
+<</AP (D) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P
+  5 0 R /Q 1 /Rect [232.133 319.17 249.759 333.411] /Subtype /Widget /T
+  (309) /TU () /V (D)>>
 endobj
 719 0 obj
 <</AA <</F 1158 0 R /K 1159 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -3971,16 +3987,16 @@ endobj
   <>>>
 endobj
 720 0 obj
-<</AA <</F 1156 0 R /K 1157 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1156 0 R /K 1157 0 R>> /AP (48.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [306.025 319.17 352.332 333.411] /Subtype /Widget /T (311) /TU () /V
-  <>>>
+  (48.00)>>
 endobj
 721 0 obj
-<</AA <</F 1154 0 R /K 1155 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1154 0 R /K 1155 0 R>> /AP (48.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [359.701 319.17 406.008 333.411] /Subtype /Widget /T (312) /TU () /V
-  <>>>
+  (48.00)>>
 endobj
 722 0 obj
 <</AA <</F 1152 0 R /K 1153 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -4000,14 +4016,15 @@ endobj
   <>>>
 endobj
 725 0 obj
-<</AA <</F 1146 0 R /K 1147 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 1146 0 R /K 1147 0 R>> /AP (31) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 8388608 /MK <<>> /P 5 0 R /Q 1 /Rect
-  [20.514 307.32 44.216 321.461] /Subtype /Widget /T (316) /TU () /V <>>>
+  [20.514 307.32 44.216 321.461] /Subtype /Widget /T (316) /TU () /V
+  (31)>>
 endobj
 726 0 obj
-<</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
-  /Rect [44.514 307.32 231.734 321.461] /Subtype /Widget /T (317) /TU ()
-  /V <>>>
+<</AP (Remessas para Betel) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff
+  8388608 /MK <<>> /P 5 0 R /Rect [44.514 307.32 231.734 321.461]
+  /Subtype /Widget /T (317) /TU () /V (Remessas para Betel)>>
 endobj
 727 0 obj
 <</AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 8388608 /MK <<>> /P 5 0 R
@@ -4033,10 +4050,10 @@ endobj
   <>>>
 endobj
 731 0 obj
-<</AA <</F 1138 0 R /K 1139 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
-  /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
+<</AA <</F 1138 0 R /K 1139 0 R>> /AP (832.00) /DA (/TiRo 0 Tf 0 g) /F 4
+  /FT /Tx /Ff 12582912 /MK <<>> /P 5 0 R /Q 2 /Rect
   [413.577 307.32 459.884 321.461] /Subtype /Widget /T (322) /TU () /V
-  <>>>
+  (832.00)>>
 endobj
 732 0 obj
 <</AA <</F 1136 0 R /K 1137 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT
@@ -4864,19 +4881,21 @@ endobj
   [350.64 787.9 437.76 809.5] /Subtype /Widget /T (estado) /V (Bahia)>>
 endobj
 880 0 obj
-<</AA <</F 894 0 R /K 895 0 R>> /AP (Julho) /DA (/TiRo 0 Tf 0 g) /F 4
+<</AA <</F 894 0 R /K 895 0 R>> /AP (Janeiro) /DA (/TiRo 0 Tf 0 g) /F 4
   /FT /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Q 1 /Rect
-  [451.44 787.9 525.6 809.5] /Subtype /Widget /T (mês) /V (Julho)>>
+  [451.44 787.9 525.6 809.5] /Subtype /Widget /T (mês) /V (Janeiro)>>
 endobj
 881 0 obj
-<</AA <</F 892 0 R /K 893 0 R>> /AP (2022) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
+<</AA <</F 892 0 R /K 893 0 R>> /AP (2023) /DA (/TiRo 0 Tf 0 g) /F 4 /FT
   /Tx /Ff 12582912 /MK <<>> /MaxLen 0 /P 5 0 R /Q 1 /Rect
-  [540.72 787.9 574.56 809.5] /Subtype /Widget /T (ano) /V (2022)>>
+  [540.72 787.9 574.56 809.5] /Subtype /Widget /T (ano) /V (2023)>>
 endobj
 882 0 obj
-<</AA <</F 889 0 R /K 890 0 R>> /AP <> /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx
-  /Ff 12582912 /M (D:20220729182300+00'00') /MK 891 0 R /MaxLen 0 /Rect
-  [44.514 726.405 231.734 740.546] /Subtype /Widget /T (2) /TU () /V <>>>
+<</AA <</F 889 0 R /K 890 0 R>> /AP (Donativos - Renovação da Filial)
+  /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx /Ff 12582912 /M
+  (D:20220729182300+00'00') /MK 891 0 R /MaxLen 0 /Rect
+  [44.514 726.405 231.734 740.546] /Subtype /Widget /T (2) /TU () /V
+  (Donativos - Renovação da Filial)>>
 endobj
 883 0 obj
 <</AA <<>> /AP (Canto dos Pássaros) /DA (/TiRo 0 Tf 0 g) /F 4 /FT /Tx
@@ -5790,7 +5809,7 @@ endobj
   /Type /Action>>
 endobj
 1162 0 obj
-<</AP <> /FT /Tx /Ff 8388608 /Kids [716 0 R] /T (307) /V <>>>
+<</AP (31) /FT /Tx /Ff 8388608 /Kids [716 0 R] /T (307) /V (31)>>
 endobj
 1163 0 obj
 <</JS (AFNumber_Format\(2, 2, 2, 0, "", true\);) /S /JavaScript>>
@@ -6489,7 +6508,7 @@ endobj
 <</JS (AFNumber_Keystroke\(2, 2, 2, 0, "", true\);) /S /JavaScript>>
 endobj
 1385 0 obj
-<</AP (O) /FT /Tx /Ff 12582912 /Kids [574 0 R] /T (165) /V (O)>>
+<</AP (CE) /FT /Tx /Ff 12582912 /Kids [574 0 R] /T (165) /V (CE)>>
 endobj
 1386 0 obj
 <</JS (AFNumber_Format\(0, 0,  0, 0, "", true\);) /S /JavaScript /Type
@@ -7350,1658 +7369,1658 @@ xref
 0000008982 00000 n
 0000009749 00000 n
 0000009966 00000 n
-0000010213 00000 n
-0000010461 00000 n
-0000010708 00000 n
-0000010955 00000 n
-0000011202 00000 n
-0000011451 00000 n
-0000011718 00000 n
-0000011986 00000 n
-0000012208 00000 n
-0000012431 00000 n
-0000012629 00000 n
-0000012876 00000 n
-0000013075 00000 n
-0000013324 00000 n
-0000013524 00000 n
-0000013773 00000 n
-0000013973 00000 n
-0000014222 00000 n
-0000014422 00000 n
-0000014671 00000 n
-0000014871 00000 n
-0000015120 00000 n
-0000015390 00000 n
-0000015639 00000 n
-0000015886 00000 n
-0000016092 00000 n
-0000016341 00000 n
-0000016589 00000 n
-0000016790 00000 n
-0000017039 00000 n
-0000017240 00000 n
-0000017488 00000 n
-0000017688 00000 n
-0000017936 00000 n
-0000018206 00000 n
-0000018455 00000 n
-0000018729 00000 n
-0000018991 00000 n
-0000019208 00000 n
-0000019425 00000 n
-0000019687 00000 n
-0000019905 00000 n
-0000020123 00000 n
-0000020380 00000 n
-0000020598 00000 n
-0000020816 00000 n
-0000021073 00000 n
-0000021332 00000 n
-0000021587 00000 n
-0000021844 00000 n
-0000022041 00000 n
-0000022238 00000 n
-0000022435 00000 n
-0000022632 00000 n
-0000029775 00000 n
-0000029828 00000 n
-0000030260 00000 n
-0000030818 00000 n
-0000031134 00000 n
-0000031323 00000 n
-0000031770 00000 n
-0000032206 00000 n
-0000032396 00000 n
-0000032679 00000 n
-0000032866 00000 n
-0000033056 00000 n
-0000033145 00000 n
-0000033411 00000 n
-0000033643 00000 n
-0000033981 00000 n
-0000034075 00000 n
-0000034311 00000 n
-0000034545 00000 n
-0000034955 00000 n
-0000035096 00000 n
-0000035378 00000 n
-0000037187 00000 n
-0000037423 00000 n
-0000037656 00000 n
-0000037997 00000 n
-0000038236 00000 n
-0000038564 00000 n
-0000042301 00000 n
-0000042547 00000 n
-0000042874 00000 n
-0000046709 00000 n
-0000046972 00000 n
-0000047204 00000 n
-0000047529 00000 n
-0000047678 00000 n
-0000047945 00000 n
-0000048921 00000 n
-0000049403 00000 n
-0000049912 00000 n
-0000057566 00000 n
-0000057760 00000 n
-0000058072 00000 n
-0000060944 00000 n
-0000060976 00000 n
-0000060998 00000 n
-0000061128 00000 n
-0000061331 00000 n
-0000061534 00000 n
-0000061591 00000 n
-0000061648 00000 n
-0000061843 00000 n
-0000061900 00000 n
-0000061988 00000 n
-0000062092 00000 n
-0000063458 00000 n
-0000063515 00000 n
-0000063572 00000 n
-0000063767 00000 n
-0000063824 00000 n
-0000063912 00000 n
-0000064095 00000 n
-0000064130 00000 n
-0000064187 00000 n
-0000064275 00000 n
-0000064379 00000 n
-0000065745 00000 n
-0000065777 00000 n
-0000065799 00000 n
-0000065982 00000 n
-0000066017 00000 n
-0000066074 00000 n
-0000066162 00000 n
-0000066266 00000 n
-0000067632 00000 n
-0000067664 00000 n
-0000067686 00000 n
-0000067813 00000 n
-0000067994 00000 n
-0000068029 00000 n
-0000068086 00000 n
-0000068174 00000 n
-0000068206 00000 n
-0000068228 00000 n
-0000068409 00000 n
-0000068444 00000 n
-0000068501 00000 n
-0000068589 00000 n
-0000068689 00000 n
-0000068792 00000 n
-0000068814 00000 n
-0000068914 00000 n
-0000069017 00000 n
-0000069039 00000 n
-0000069139 00000 n
-0000069242 00000 n
-0000069264 00000 n
-0000069364 00000 n
-0000069467 00000 n
-0000069489 00000 n
-0000069589 00000 n
-0000069692 00000 n
-0000069724 00000 n
-0000069746 00000 n
-0000069857 00000 n
-0000070089 00000 n
-0000070189 00000 n
-0000070292 00000 n
-0000070314 00000 n
-0000070495 00000 n
-0000070530 00000 n
-0000070587 00000 n
-0000070675 00000 n
-0000070775 00000 n
-0000070878 00000 n
-0000070910 00000 n
-0000070932 00000 n
-0000071041 00000 n
-0000071271 00000 n
-0000071371 00000 n
-0000071474 00000 n
-0000071496 00000 n
-0000071677 00000 n
-0000071712 00000 n
-0000071769 00000 n
-0000071857 00000 n
-0000071957 00000 n
-0000072060 00000 n
-0000072082 00000 n
-0000072182 00000 n
-0000072285 00000 n
-0000072317 00000 n
-0000072339 00000 n
-0000072452 00000 n
-0000072684 00000 n
-0000072784 00000 n
-0000072887 00000 n
-0000072909 00000 n
-0000073090 00000 n
-0000073125 00000 n
-0000073182 00000 n
-0000073270 00000 n
-0000073370 00000 n
-0000073473 00000 n
-0000073505 00000 n
-0000073527 00000 n
-0000073640 00000 n
-0000073874 00000 n
-0000073974 00000 n
-0000074077 00000 n
-0000074099 00000 n
-0000074280 00000 n
-0000074315 00000 n
-0000074372 00000 n
-0000074460 00000 n
-0000074560 00000 n
-0000074663 00000 n
-0000074685 00000 n
-0000074785 00000 n
-0000074888 00000 n
-0000074920 00000 n
-0000074942 00000 n
-0000075041 00000 n
-0000075263 00000 n
-0000075363 00000 n
-0000075466 00000 n
-0000075488 00000 n
-0000075669 00000 n
-0000075704 00000 n
-0000075761 00000 n
-0000075849 00000 n
-0000075949 00000 n
-0000076052 00000 n
-0000076084 00000 n
-0000076106 00000 n
-0000076205 00000 n
-0000076427 00000 n
-0000076527 00000 n
-0000076630 00000 n
-0000076652 00000 n
-0000076833 00000 n
-0000076868 00000 n
-0000076925 00000 n
-0000077013 00000 n
-0000077113 00000 n
-0000077216 00000 n
-0000077238 00000 n
-0000077338 00000 n
-0000077441 00000 n
-0000077463 00000 n
-0000077546 00000 n
-0000077632 00000 n
-0000077825 00000 n
-0000077882 00000 n
-0000077970 00000 n
-0000078018 00000 n
-0000078101 00000 n
-0000078187 00000 n
-0000078380 00000 n
-0000078437 00000 n
-0000078525 00000 n
-0000080037 00000 n
-0000080120 00000 n
-0000080206 00000 n
-0000080399 00000 n
-0000080456 00000 n
-0000080544 00000 n
-0000080739 00000 n
-0000080796 00000 n
-0000080884 00000 n
-0000080967 00000 n
-0000081053 00000 n
-0000081246 00000 n
-0000081303 00000 n
-0000081391 00000 n
-0000081586 00000 n
-0000081643 00000 n
-0000081731 00000 n
-0000081814 00000 n
-0000081900 00000 n
-0000082093 00000 n
-0000082150 00000 n
-0000082238 00000 n
-0000082433 00000 n
-0000082490 00000 n
-0000082578 00000 n
-0000082661 00000 n
-0000082747 00000 n
-0000082940 00000 n
-0000082997 00000 n
-0000083085 00000 n
-0000083168 00000 n
-0000083254 00000 n
-0000083447 00000 n
-0000083504 00000 n
-0000083592 00000 n
-0000083675 00000 n
-0000083761 00000 n
-0000083844 00000 n
-0000083930 00000 n
-0000084124 00000 n
-0000084181 00000 n
-0000084269 00000 n
-0000084352 00000 n
-0000084438 00000 n
-0000084632 00000 n
-0000084689 00000 n
-0000084777 00000 n
-0000084825 00000 n
-0000084908 00000 n
-0000084994 00000 n
-0000085188 00000 n
-0000085245 00000 n
-0000085333 00000 n
-0000086845 00000 n
-0000086928 00000 n
-0000087014 00000 n
-0000087209 00000 n
-0000087266 00000 n
-0000087354 00000 n
-0000087549 00000 n
-0000087606 00000 n
-0000087694 00000 n
-0000087777 00000 n
-0000087863 00000 n
-0000088057 00000 n
-0000088114 00000 n
-0000088202 00000 n
-0000088397 00000 n
-0000088454 00000 n
-0000088542 00000 n
-0000088625 00000 n
-0000088711 00000 n
-0000088905 00000 n
-0000088962 00000 n
-0000089050 00000 n
-0000089245 00000 n
-0000089302 00000 n
-0000089390 00000 n
-0000089473 00000 n
-0000089559 00000 n
-0000089753 00000 n
-0000089810 00000 n
-0000089898 00000 n
-0000090093 00000 n
-0000090150 00000 n
-0000090238 00000 n
-0000090321 00000 n
-0000090407 00000 n
-0000090601 00000 n
-0000090658 00000 n
-0000090746 00000 n
-0000090941 00000 n
-0000090998 00000 n
-0000091086 00000 n
-0000091169 00000 n
-0000091255 00000 n
-0000091450 00000 n
-0000091507 00000 n
-0000091595 00000 n
-0000091790 00000 n
-0000091847 00000 n
-0000091935 00000 n
-0000092018 00000 n
-0000092104 00000 n
-0000097969 00000 n
-0000098017 00000 n
-0000098100 00000 n
-0000098186 00000 n
-0000098380 00000 n
-0000098437 00000 n
-0000098525 00000 n
-0000100037 00000 n
-0000100085 00000 n
-0000100168 00000 n
-0000100254 00000 n
-0000100447 00000 n
-0000100504 00000 n
-0000100592 00000 n
-0000102104 00000 n
-0000102187 00000 n
-0000102273 00000 n
-0000102466 00000 n
-0000102523 00000 n
-0000102611 00000 n
-0000102694 00000 n
-0000102780 00000 n
-0000102973 00000 n
-0000103030 00000 n
-0000103118 00000 n
-0000103201 00000 n
-0000103287 00000 n
-0000103480 00000 n
-0000103537 00000 n
-0000103625 00000 n
-0000103708 00000 n
-0000103794 00000 n
-0000103987 00000 n
-0000104044 00000 n
-0000104132 00000 n
-0000104215 00000 n
-0000104301 00000 n
-0000104494 00000 n
-0000104551 00000 n
-0000104639 00000 n
-0000104722 00000 n
-0000104808 00000 n
-0000104865 00000 n
-0000104922 00000 n
-0000105130 00000 n
-0000105355 00000 n
-0000105580 00000 n
-0000105791 00000 n
-0000106002 00000 n
-0000106213 00000 n
-0000106423 00000 n
-0000106634 00000 n
-0000106843 00000 n
-0000107059 00000 n
-0000107285 00000 n
-0000107509 00000 n
-0000107723 00000 n
-0000107937 00000 n
-0000108151 00000 n
-0000108362 00000 n
-0000108576 00000 n
-0000108785 00000 n
-0000109001 00000 n
-0000109227 00000 n
-0000109451 00000 n
-0000109665 00000 n
-0000109879 00000 n
-0000110093 00000 n
-0000110304 00000 n
-0000110518 00000 n
-0000110727 00000 n
-0000110932 00000 n
-0000111160 00000 n
-0000111384 00000 n
-0000111598 00000 n
-0000111812 00000 n
-0000112026 00000 n
-0000112237 00000 n
-0000112451 00000 n
-0000112660 00000 n
-0000112844 00000 n
-0000113027 00000 n
-0000113241 00000 n
-0000113455 00000 n
-0000113679 00000 n
-0000113893 00000 n
-0000114104 00000 n
-0000114318 00000 n
-0000114527 00000 n
-0000114700 00000 n
-0000114881 00000 n
-0000115095 00000 n
-0000115321 00000 n
-0000115547 00000 n
-0000115761 00000 n
-0000115972 00000 n
-0000116186 00000 n
-0000116395 00000 n
-0000116568 00000 n
-0000116751 00000 n
-0000116965 00000 n
-0000117179 00000 n
-0000117405 00000 n
-0000117619 00000 n
-0000117830 00000 n
-0000118044 00000 n
-0000118253 00000 n
-0000118426 00000 n
-0000118607 00000 n
-0000118821 00000 n
-0000119035 00000 n
-0000119249 00000 n
-0000119475 00000 n
-0000119686 00000 n
-0000119900 00000 n
-0000120109 00000 n
-0000120282 00000 n
-0000120465 00000 n
-0000120679 00000 n
-0000120893 00000 n
-0000121117 00000 n
-0000121331 00000 n
-0000121542 00000 n
-0000121756 00000 n
-0000121965 00000 n
-0000122138 00000 n
-0000122319 00000 n
-0000122533 00000 n
-0000122747 00000 n
+0000010201 00000 n
+0000010449 00000 n
+0000010696 00000 n
+0000010943 00000 n
+0000011190 00000 n
+0000011439 00000 n
+0000011706 00000 n
+0000011974 00000 n
+0000012196 00000 n
+0000012419 00000 n
+0000012617 00000 n
+0000012864 00000 n
+0000013063 00000 n
+0000013312 00000 n
+0000013512 00000 n
+0000013761 00000 n
+0000013961 00000 n
+0000014210 00000 n
+0000014410 00000 n
+0000014659 00000 n
+0000014859 00000 n
+0000015108 00000 n
+0000015378 00000 n
+0000015627 00000 n
+0000015874 00000 n
+0000016080 00000 n
+0000016329 00000 n
+0000016577 00000 n
+0000016778 00000 n
+0000017027 00000 n
+0000017228 00000 n
+0000017476 00000 n
+0000017676 00000 n
+0000017924 00000 n
+0000018194 00000 n
+0000018443 00000 n
+0000018715 00000 n
+0000018977 00000 n
+0000019194 00000 n
+0000019411 00000 n
+0000019673 00000 n
+0000019891 00000 n
+0000020109 00000 n
+0000020374 00000 n
+0000020592 00000 n
+0000020810 00000 n
+0000021061 00000 n
+0000021318 00000 n
+0000021573 00000 n
+0000021828 00000 n
+0000022025 00000 n
+0000022222 00000 n
+0000022419 00000 n
+0000022616 00000 n
+0000029759 00000 n
+0000029812 00000 n
+0000030244 00000 n
+0000030802 00000 n
+0000031118 00000 n
+0000031307 00000 n
+0000031754 00000 n
+0000032190 00000 n
+0000032380 00000 n
+0000032663 00000 n
+0000032850 00000 n
+0000033040 00000 n
+0000033129 00000 n
+0000033395 00000 n
+0000033627 00000 n
+0000033965 00000 n
+0000034059 00000 n
+0000034295 00000 n
+0000034529 00000 n
+0000034939 00000 n
+0000035080 00000 n
+0000035362 00000 n
+0000037171 00000 n
+0000037407 00000 n
+0000037640 00000 n
+0000037981 00000 n
+0000038220 00000 n
+0000038548 00000 n
+0000042285 00000 n
+0000042531 00000 n
+0000042858 00000 n
+0000046693 00000 n
+0000046956 00000 n
+0000047188 00000 n
+0000047513 00000 n
+0000047662 00000 n
+0000047929 00000 n
+0000048905 00000 n
+0000049387 00000 n
+0000049896 00000 n
+0000057550 00000 n
+0000057744 00000 n
+0000058056 00000 n
+0000060928 00000 n
+0000060960 00000 n
+0000060982 00000 n
+0000061112 00000 n
+0000061315 00000 n
+0000061518 00000 n
+0000061575 00000 n
+0000061632 00000 n
+0000061827 00000 n
+0000061884 00000 n
+0000061972 00000 n
+0000062076 00000 n
+0000063442 00000 n
+0000063499 00000 n
+0000063556 00000 n
+0000063751 00000 n
+0000063808 00000 n
+0000063896 00000 n
+0000064079 00000 n
+0000064114 00000 n
+0000064171 00000 n
+0000064259 00000 n
+0000064363 00000 n
+0000065729 00000 n
+0000065761 00000 n
+0000065783 00000 n
+0000065966 00000 n
+0000066001 00000 n
+0000066058 00000 n
+0000066146 00000 n
+0000066250 00000 n
+0000067616 00000 n
+0000067648 00000 n
+0000067670 00000 n
+0000067797 00000 n
+0000067978 00000 n
+0000068013 00000 n
+0000068070 00000 n
+0000068158 00000 n
+0000068190 00000 n
+0000068212 00000 n
+0000068393 00000 n
+0000068428 00000 n
+0000068485 00000 n
+0000068573 00000 n
+0000068673 00000 n
+0000068776 00000 n
+0000068798 00000 n
+0000068898 00000 n
+0000069001 00000 n
+0000069023 00000 n
+0000069123 00000 n
+0000069226 00000 n
+0000069248 00000 n
+0000069348 00000 n
+0000069451 00000 n
+0000069473 00000 n
+0000069573 00000 n
+0000069676 00000 n
+0000069708 00000 n
+0000069730 00000 n
+0000069841 00000 n
+0000070073 00000 n
+0000070173 00000 n
+0000070276 00000 n
+0000070298 00000 n
+0000070479 00000 n
+0000070514 00000 n
+0000070571 00000 n
+0000070659 00000 n
+0000070759 00000 n
+0000070862 00000 n
+0000070894 00000 n
+0000070916 00000 n
+0000071025 00000 n
+0000071255 00000 n
+0000071355 00000 n
+0000071458 00000 n
+0000071480 00000 n
+0000071661 00000 n
+0000071696 00000 n
+0000071753 00000 n
+0000071841 00000 n
+0000071941 00000 n
+0000072044 00000 n
+0000072066 00000 n
+0000072166 00000 n
+0000072269 00000 n
+0000072301 00000 n
+0000072323 00000 n
+0000072432 00000 n
+0000072660 00000 n
+0000072760 00000 n
+0000072863 00000 n
+0000072885 00000 n
+0000073066 00000 n
+0000073101 00000 n
+0000073158 00000 n
+0000073246 00000 n
+0000073346 00000 n
+0000073449 00000 n
+0000073481 00000 n
+0000073503 00000 n
+0000073614 00000 n
+0000073846 00000 n
+0000073946 00000 n
+0000074049 00000 n
+0000074071 00000 n
+0000074252 00000 n
+0000074287 00000 n
+0000074344 00000 n
+0000074432 00000 n
+0000074532 00000 n
+0000074635 00000 n
+0000074657 00000 n
+0000074757 00000 n
+0000074860 00000 n
+0000074892 00000 n
+0000074914 00000 n
+0000075013 00000 n
+0000075235 00000 n
+0000075335 00000 n
+0000075438 00000 n
+0000075460 00000 n
+0000075641 00000 n
+0000075676 00000 n
+0000075733 00000 n
+0000075821 00000 n
+0000075921 00000 n
+0000076024 00000 n
+0000076056 00000 n
+0000076078 00000 n
+0000076177 00000 n
+0000076399 00000 n
+0000076499 00000 n
+0000076602 00000 n
+0000076624 00000 n
+0000076805 00000 n
+0000076840 00000 n
+0000076897 00000 n
+0000076985 00000 n
+0000077085 00000 n
+0000077188 00000 n
+0000077210 00000 n
+0000077310 00000 n
+0000077413 00000 n
+0000077435 00000 n
+0000077518 00000 n
+0000077604 00000 n
+0000077797 00000 n
+0000077854 00000 n
+0000077942 00000 n
+0000077990 00000 n
+0000078073 00000 n
+0000078159 00000 n
+0000078352 00000 n
+0000078409 00000 n
+0000078497 00000 n
+0000080009 00000 n
+0000080092 00000 n
+0000080178 00000 n
+0000080371 00000 n
+0000080428 00000 n
+0000080516 00000 n
+0000080711 00000 n
+0000080768 00000 n
+0000080856 00000 n
+0000080939 00000 n
+0000081025 00000 n
+0000081218 00000 n
+0000081275 00000 n
+0000081363 00000 n
+0000081558 00000 n
+0000081615 00000 n
+0000081703 00000 n
+0000081786 00000 n
+0000081872 00000 n
+0000082065 00000 n
+0000082122 00000 n
+0000082210 00000 n
+0000082405 00000 n
+0000082462 00000 n
+0000082550 00000 n
+0000082633 00000 n
+0000082719 00000 n
+0000082912 00000 n
+0000082969 00000 n
+0000083057 00000 n
+0000083140 00000 n
+0000083226 00000 n
+0000083419 00000 n
+0000083476 00000 n
+0000083564 00000 n
+0000083647 00000 n
+0000083733 00000 n
+0000083816 00000 n
+0000083902 00000 n
+0000084096 00000 n
+0000084153 00000 n
+0000084241 00000 n
+0000084324 00000 n
+0000084410 00000 n
+0000084604 00000 n
+0000084661 00000 n
+0000084749 00000 n
+0000084797 00000 n
+0000084880 00000 n
+0000084966 00000 n
+0000085160 00000 n
+0000085217 00000 n
+0000085305 00000 n
+0000086817 00000 n
+0000086900 00000 n
+0000086986 00000 n
+0000087181 00000 n
+0000087238 00000 n
+0000087326 00000 n
+0000087521 00000 n
+0000087578 00000 n
+0000087666 00000 n
+0000087749 00000 n
+0000087835 00000 n
+0000088029 00000 n
+0000088086 00000 n
+0000088174 00000 n
+0000088369 00000 n
+0000088426 00000 n
+0000088514 00000 n
+0000088597 00000 n
+0000088683 00000 n
+0000088877 00000 n
+0000088934 00000 n
+0000089022 00000 n
+0000089217 00000 n
+0000089274 00000 n
+0000089362 00000 n
+0000089445 00000 n
+0000089531 00000 n
+0000089725 00000 n
+0000089782 00000 n
+0000089870 00000 n
+0000090065 00000 n
+0000090122 00000 n
+0000090210 00000 n
+0000090293 00000 n
+0000090379 00000 n
+0000090573 00000 n
+0000090630 00000 n
+0000090718 00000 n
+0000090913 00000 n
+0000090970 00000 n
+0000091058 00000 n
+0000091141 00000 n
+0000091227 00000 n
+0000091422 00000 n
+0000091479 00000 n
+0000091567 00000 n
+0000091762 00000 n
+0000091819 00000 n
+0000091907 00000 n
+0000091990 00000 n
+0000092076 00000 n
+0000097941 00000 n
+0000097989 00000 n
+0000098072 00000 n
+0000098158 00000 n
+0000098352 00000 n
+0000098409 00000 n
+0000098497 00000 n
+0000100009 00000 n
+0000100057 00000 n
+0000100140 00000 n
+0000100226 00000 n
+0000100419 00000 n
+0000100476 00000 n
+0000100564 00000 n
+0000102076 00000 n
+0000102159 00000 n
+0000102245 00000 n
+0000102438 00000 n
+0000102495 00000 n
+0000102583 00000 n
+0000102666 00000 n
+0000102752 00000 n
+0000102945 00000 n
+0000103002 00000 n
+0000103090 00000 n
+0000103173 00000 n
+0000103259 00000 n
+0000103452 00000 n
+0000103509 00000 n
+0000103597 00000 n
+0000103680 00000 n
+0000103766 00000 n
+0000103959 00000 n
+0000104016 00000 n
+0000104104 00000 n
+0000104187 00000 n
+0000104273 00000 n
+0000104466 00000 n
+0000104523 00000 n
+0000104611 00000 n
+0000104694 00000 n
+0000104780 00000 n
+0000104837 00000 n
+0000104894 00000 n
+0000105104 00000 n
+0000105331 00000 n
+0000105554 00000 n
+0000105765 00000 n
+0000105976 00000 n
+0000106187 00000 n
+0000106397 00000 n
+0000106608 00000 n
+0000106819 00000 n
+0000107085 00000 n
+0000107311 00000 n
+0000107533 00000 n
+0000107747 00000 n
+0000107961 00000 n
+0000108175 00000 n
+0000108386 00000 n
+0000108600 00000 n
+0000108811 00000 n
+0000109063 00000 n
+0000109289 00000 n
+0000109503 00000 n
+0000109729 00000 n
+0000109955 00000 n
+0000110169 00000 n
+0000110380 00000 n
+0000110594 00000 n
+0000110805 00000 n
+0000111046 00000 n
+0000111272 00000 n
+0000111486 00000 n
+0000111712 00000 n
+0000111938 00000 n
+0000112152 00000 n
+0000112363 00000 n
+0000112577 00000 n
+0000112788 00000 n
+0000113006 00000 n
+0000113187 00000 n
+0000113401 00000 n
+0000113627 00000 n
+0000113853 00000 n
+0000114067 00000 n
+0000114278 00000 n
+0000114492 00000 n
+0000114703 00000 n
+0000114910 00000 n
+0000115091 00000 n
+0000115305 00000 n
+0000115531 00000 n
+0000115757 00000 n
+0000115971 00000 n
+0000116182 00000 n
+0000116396 00000 n
+0000116607 00000 n
+0000116828 00000 n
+0000117009 00000 n
+0000117233 00000 n
+0000117447 00000 n
+0000117661 00000 n
+0000117875 00000 n
+0000118086 00000 n
+0000118300 00000 n
+0000118511 00000 n
+0000118730 00000 n
+0000118911 00000 n
+0000119135 00000 n
+0000119349 00000 n
+0000119563 00000 n
+0000119777 00000 n
+0000119988 00000 n
+0000120202 00000 n
+0000120413 00000 n
+0000120650 00000 n
+0000120833 00000 n
+0000121057 00000 n
+0000121271 00000 n
+0000121485 00000 n
+0000121699 00000 n
+0000121910 00000 n
+0000122124 00000 n
+0000122335 00000 n
+0000122554 00000 n
+0000122735 00000 n
 0000122961 00000 n
-0000123187 00000 n
-0000123398 00000 n
-0000123612 00000 n
-0000123821 00000 n
-0000123994 00000 n
-0000124177 00000 n
-0000124391 00000 n
-0000124605 00000 n
-0000124831 00000 n
-0000125045 00000 n
-0000125256 00000 n
-0000125470 00000 n
-0000125680 00000 n
-0000125854 00000 n
-0000126036 00000 n
-0000126251 00000 n
-0000126466 00000 n
-0000126681 00000 n
-0000126908 00000 n
-0000127122 00000 n
-0000127337 00000 n
-0000127547 00000 n
-0000127721 00000 n
-0000127905 00000 n
-0000128120 00000 n
-0000128335 00000 n
-0000128562 00000 n
-0000128777 00000 n
-0000128991 00000 n
-0000129206 00000 n
-0000129416 00000 n
-0000129590 00000 n
-0000129774 00000 n
-0000129989 00000 n
-0000130204 00000 n
-0000130429 00000 n
-0000130644 00000 n
-0000130858 00000 n
-0000131073 00000 n
-0000131283 00000 n
-0000131457 00000 n
-0000131637 00000 n
-0000131852 00000 n
-0000132067 00000 n
-0000132282 00000 n
-0000132509 00000 n
-0000132723 00000 n
-0000132938 00000 n
-0000133148 00000 n
-0000133322 00000 n
-0000133504 00000 n
-0000133729 00000 n
-0000133944 00000 n
-0000134159 00000 n
-0000134374 00000 n
-0000134588 00000 n
-0000134803 00000 n
-0000135017 00000 n
-0000135237 00000 n
-0000135421 00000 n
-0000135646 00000 n
-0000135861 00000 n
-0000136076 00000 n
-0000136291 00000 n
-0000136505 00000 n
-0000136720 00000 n
-0000136934 00000 n
-0000137154 00000 n
-0000137336 00000 n
-0000137563 00000 n
-0000137778 00000 n
-0000137993 00000 n
-0000138208 00000 n
-0000138422 00000 n
-0000138637 00000 n
-0000138851 00000 n
-0000139069 00000 n
-0000139239 00000 n
-0000139464 00000 n
-0000139679 00000 n
-0000139894 00000 n
-0000140109 00000 n
-0000140323 00000 n
-0000140538 00000 n
-0000140752 00000 n
-0000140972 00000 n
-0000141156 00000 n
-0000141371 00000 n
-0000141586 00000 n
-0000141811 00000 n
-0000142026 00000 n
-0000142240 00000 n
-0000142455 00000 n
-0000142669 00000 n
-0000142849 00000 n
-0000143031 00000 n
-0000143246 00000 n
-0000143461 00000 n
-0000143676 00000 n
-0000143903 00000 n
-0000144117 00000 n
-0000144332 00000 n
-0000144546 00000 n
-0000144722 00000 n
-0000144904 00000 n
-0000145129 00000 n
-0000145344 00000 n
-0000145559 00000 n
-0000145774 00000 n
-0000145988 00000 n
-0000146203 00000 n
-0000146417 00000 n
-0000146597 00000 n
-0000146779 00000 n
-0000146994 00000 n
-0000147221 00000 n
-0000147448 00000 n
-0000147663 00000 n
-0000147877 00000 n
-0000148092 00000 n
-0000148306 00000 n
-0000148486 00000 n
-0000148668 00000 n
-0000148895 00000 n
-0000149110 00000 n
-0000149325 00000 n
-0000149540 00000 n
-0000149754 00000 n
-0000149969 00000 n
-0000150185 00000 n
-0000150405 00000 n
-0000150587 00000 n
-0000150802 00000 n
-0000151029 00000 n
-0000151256 00000 n
-0000151471 00000 n
-0000151685 00000 n
-0000151900 00000 n
-0000152116 00000 n
-0000152336 00000 n
-0000152520 00000 n
-0000152735 00000 n
-0000152950 00000 n
-0000153175 00000 n
-0000153390 00000 n
-0000153604 00000 n
-0000153819 00000 n
-0000154035 00000 n
-0000154255 00000 n
-0000154437 00000 n
-0000154652 00000 n
-0000154879 00000 n
-0000155106 00000 n
-0000155321 00000 n
-0000155535 00000 n
-0000155750 00000 n
-0000155966 00000 n
-0000156186 00000 n
-0000156370 00000 n
-0000156585 00000 n
-0000156800 00000 n
-0000157025 00000 n
-0000157240 00000 n
-0000157454 00000 n
-0000157669 00000 n
-0000157885 00000 n
-0000158093 00000 n
-0000158275 00000 n
-0000158502 00000 n
-0000158717 00000 n
-0000158932 00000 n
-0000159147 00000 n
-0000159361 00000 n
-0000159576 00000 n
-0000159792 00000 n
-0000160020 00000 n
-0000160204 00000 n
-0000160439 00000 n
-0000160654 00000 n
-0000160869 00000 n
-0000161084 00000 n
-0000161298 00000 n
-0000161513 00000 n
-0000161723 00000 n
-0000161897 00000 n
-0000162077 00000 n
-0000162292 00000 n
-0000162507 00000 n
-0000162722 00000 n
-0000162937 00000 n
-0000163151 00000 n
-0000163366 00000 n
-0000163575 00000 n
-0000163748 00000 n
-0000163927 00000 n
-0000164141 00000 n
-0000164355 00000 n
-0000164569 00000 n
-0000164783 00000 n
-0000164994 00000 n
-0000165208 00000 n
-0000165416 00000 n
-0000165588 00000 n
-0000165766 00000 n
-0000165977 00000 n
-0000166188 00000 n
-0000166399 00000 n
-0000166610 00000 n
-0000166820 00000 n
-0000167031 00000 n
-0000167240 00000 n
-0000167413 00000 n
-0000167592 00000 n
-0000167806 00000 n
-0000168020 00000 n
-0000168234 00000 n
-0000168448 00000 n
-0000168659 00000 n
-0000168873 00000 n
-0000169070 00000 n
-0000169243 00000 n
-0000169422 00000 n
-0000169636 00000 n
-0000169850 00000 n
-0000170064 00000 n
-0000170278 00000 n
-0000170489 00000 n
-0000170703 00000 n
-0000170912 00000 n
-0000171085 00000 n
-0000171264 00000 n
-0000171478 00000 n
-0000171692 00000 n
-0000171906 00000 n
-0000172120 00000 n
-0000172331 00000 n
-0000172545 00000 n
-0000172754 00000 n
-0000172927 00000 n
-0000173106 00000 n
-0000173320 00000 n
-0000173534 00000 n
-0000173748 00000 n
-0000173962 00000 n
-0000174173 00000 n
-0000174387 00000 n
-0000174596 00000 n
-0000174769 00000 n
-0000174948 00000 n
-0000175162 00000 n
-0000175376 00000 n
-0000175590 00000 n
-0000175804 00000 n
-0000176015 00000 n
-0000176229 00000 n
-0000176437 00000 n
-0000176609 00000 n
-0000176786 00000 n
-0000176997 00000 n
-0000177208 00000 n
-0000177419 00000 n
-0000177630 00000 n
-0000177840 00000 n
-0000178051 00000 n
-0000178260 00000 n
-0000178433 00000 n
-0000178612 00000 n
-0000178826 00000 n
-0000179040 00000 n
-0000179254 00000 n
-0000179468 00000 n
-0000179679 00000 n
-0000179893 00000 n
-0000180103 00000 n
-0000180277 00000 n
-0000180457 00000 n
-0000180672 00000 n
-0000180887 00000 n
-0000181102 00000 n
-0000181317 00000 n
-0000181531 00000 n
-0000181746 00000 n
-0000181956 00000 n
-0000182130 00000 n
-0000182310 00000 n
-0000182525 00000 n
-0000182740 00000 n
-0000182955 00000 n
-0000183170 00000 n
-0000183384 00000 n
-0000183599 00000 n
-0000183809 00000 n
-0000183969 00000 n
-0000184149 00000 n
-0000184364 00000 n
-0000184579 00000 n
-0000184794 00000 n
-0000185009 00000 n
-0000185223 00000 n
-0000185438 00000 n
-0000185648 00000 n
-0000185822 00000 n
-0000186002 00000 n
-0000186217 00000 n
-0000186432 00000 n
-0000186647 00000 n
-0000186862 00000 n
-0000187076 00000 n
-0000187291 00000 n
-0000187501 00000 n
-0000187675 00000 n
-0000187855 00000 n
-0000188070 00000 n
-0000188285 00000 n
-0000188500 00000 n
-0000188715 00000 n
-0000188929 00000 n
-0000189144 00000 n
-0000189353 00000 n
-0000189526 00000 n
-0000189705 00000 n
-0000189919 00000 n
-0000190133 00000 n
-0000190346 00000 n
-0000190558 00000 n
-0000190767 00000 n
-0000190979 00000 n
-0000191187 00000 n
-0000191361 00000 n
-0000191541 00000 n
-0000191754 00000 n
-0000191967 00000 n
-0000192180 00000 n
-0000192393 00000 n
-0000192605 00000 n
-0000192818 00000 n
-0000193026 00000 n
-0000193200 00000 n
-0000193380 00000 n
-0000193593 00000 n
-0000193806 00000 n
-0000194019 00000 n
-0000194232 00000 n
-0000194444 00000 n
-0000194657 00000 n
-0000194865 00000 n
-0000195039 00000 n
-0000195219 00000 n
-0000195432 00000 n
-0000195645 00000 n
-0000195858 00000 n
-0000196071 00000 n
-0000196283 00000 n
-0000196496 00000 n
-0000196704 00000 n
-0000196878 00000 n
-0000197058 00000 n
-0000197271 00000 n
-0000197484 00000 n
-0000197697 00000 n
-0000197910 00000 n
-0000198122 00000 n
-0000198335 00000 n
-0000198543 00000 n
-0000198717 00000 n
-0000198897 00000 n
-0000199110 00000 n
-0000199323 00000 n
-0000199536 00000 n
-0000199749 00000 n
-0000199961 00000 n
-0000200174 00000 n
-0000200382 00000 n
-0000200556 00000 n
-0000200736 00000 n
-0000200949 00000 n
-0000201162 00000 n
-0000201375 00000 n
-0000201588 00000 n
-0000201784 00000 n
-0000201997 00000 n
-0000202224 00000 n
-0000202445 00000 n
-0000202662 00000 n
-0000202878 00000 n
-0000203114 00000 n
-0000203373 00000 n
-0000205330 00000 n
-0000205513 00000 n
-0000205757 00000 n
-0000206080 00000 n
-0000206102 00000 n
-0000206159 00000 n
-0000206216 00000 n
-0000206238 00000 n
-0000206295 00000 n
-0000206352 00000 n
-0000206409 00000 n
-0000206466 00000 n
-0000206523 00000 n
-0000206580 00000 n
-0000206637 00000 n
-0000206694 00000 n
-0000206777 00000 n
-0000206863 00000 n
-0000206946 00000 n
-0000207032 00000 n
-0000207120 00000 n
-0000207333 00000 n
-0000207381 00000 n
-0000207464 00000 n
-0000207550 00000 n
-0000207744 00000 n
-0000207787 00000 n
-0000207875 00000 n
-0000208730 00000 n
-0000208813 00000 n
-0000208899 00000 n
-0000208982 00000 n
-0000209068 00000 n
-0000209151 00000 n
-0000209237 00000 n
-0000209320 00000 n
-0000209406 00000 n
-0000209506 00000 n
-0000209609 00000 n
-0000209692 00000 n
-0000209778 00000 n
-0000209861 00000 n
-0000209947 00000 n
-0000210030 00000 n
-0000210116 00000 n
-0000210199 00000 n
-0000210285 00000 n
-0000210368 00000 n
-0000210454 00000 n
-0000210537 00000 n
-0000210623 00000 n
-0000210723 00000 n
-0000210826 00000 n
-0000210909 00000 n
-0000210995 00000 n
-0000211078 00000 n
-0000211164 00000 n
-0000211247 00000 n
-0000211333 00000 n
-0000211416 00000 n
-0000211502 00000 n
-0000211585 00000 n
-0000211671 00000 n
-0000211754 00000 n
-0000211840 00000 n
-0000211940 00000 n
-0000212043 00000 n
-0000212126 00000 n
-0000212212 00000 n
-0000212295 00000 n
-0000212381 00000 n
-0000212464 00000 n
-0000212550 00000 n
-0000212633 00000 n
-0000212719 00000 n
-0000212802 00000 n
-0000212888 00000 n
-0000212971 00000 n
-0000213057 00000 n
-0000213157 00000 n
-0000213260 00000 n
-0000213343 00000 n
-0000213429 00000 n
-0000213512 00000 n
-0000213598 00000 n
-0000213681 00000 n
-0000213767 00000 n
-0000213850 00000 n
-0000213936 00000 n
-0000214019 00000 n
-0000214105 00000 n
-0000214188 00000 n
-0000214274 00000 n
-0000214374 00000 n
-0000214477 00000 n
-0000214560 00000 n
-0000214646 00000 n
-0000214729 00000 n
-0000214815 00000 n
-0000214898 00000 n
-0000214984 00000 n
-0000215067 00000 n
-0000215153 00000 n
-0000215236 00000 n
-0000215322 00000 n
-0000215405 00000 n
-0000215491 00000 n
-0000215591 00000 n
-0000215694 00000 n
-0000215777 00000 n
-0000215863 00000 n
-0000215946 00000 n
-0000216032 00000 n
-0000216115 00000 n
-0000216201 00000 n
-0000216284 00000 n
-0000216371 00000 n
-0000216455 00000 n
-0000216542 00000 n
-0000216626 00000 n
-0000216713 00000 n
-0000216814 00000 n
-0000216918 00000 n
-0000217002 00000 n
-0000217089 00000 n
-0000217173 00000 n
-0000217260 00000 n
-0000217344 00000 n
-0000217431 00000 n
-0000217515 00000 n
-0000217602 00000 n
-0000217686 00000 n
-0000217773 00000 n
-0000217857 00000 n
-0000217944 00000 n
-0000218045 00000 n
-0000218149 00000 n
-0000218233 00000 n
-0000218320 00000 n
-0000218404 00000 n
-0000218491 00000 n
-0000218575 00000 n
-0000218662 00000 n
-0000218746 00000 n
-0000218833 00000 n
-0000218917 00000 n
-0000219004 00000 n
-0000219088 00000 n
-0000219175 00000 n
-0000219276 00000 n
-0000219380 00000 n
-0000219464 00000 n
-0000219551 00000 n
-0000219635 00000 n
-0000219722 00000 n
-0000219806 00000 n
-0000219893 00000 n
-0000219977 00000 n
-0000220064 00000 n
-0000220148 00000 n
-0000220235 00000 n
-0000220319 00000 n
-0000220406 00000 n
-0000220486 00000 n
-0000220587 00000 n
-0000220691 00000 n
-0000220775 00000 n
-0000220862 00000 n
-0000220946 00000 n
-0000221033 00000 n
-0000221117 00000 n
-0000221204 00000 n
-0000221288 00000 n
-0000221375 00000 n
-0000221459 00000 n
-0000221546 00000 n
-0000221630 00000 n
-0000221717 00000 n
-0000221818 00000 n
-0000221922 00000 n
-0000222006 00000 n
-0000222093 00000 n
-0000222177 00000 n
-0000222264 00000 n
-0000222348 00000 n
-0000222435 00000 n
-0000222519 00000 n
-0000222606 00000 n
-0000222690 00000 n
-0000222777 00000 n
-0000222861 00000 n
-0000222948 00000 n
-0000223049 00000 n
-0000223153 00000 n
-0000223237 00000 n
-0000223324 00000 n
-0000223408 00000 n
-0000223495 00000 n
-0000223579 00000 n
-0000223666 00000 n
-0000223750 00000 n
-0000223837 00000 n
-0000223921 00000 n
-0000224008 00000 n
-0000224092 00000 n
-0000224179 00000 n
-0000224280 00000 n
-0000224384 00000 n
-0000224468 00000 n
-0000224555 00000 n
-0000224639 00000 n
-0000224726 00000 n
-0000224810 00000 n
-0000224897 00000 n
-0000224981 00000 n
-0000225068 00000 n
-0000225152 00000 n
-0000225239 00000 n
-0000225323 00000 n
-0000225410 00000 n
-0000225511 00000 n
-0000225615 00000 n
-0000225699 00000 n
-0000225786 00000 n
-0000225870 00000 n
-0000225957 00000 n
-0000226041 00000 n
-0000226128 00000 n
-0000226212 00000 n
-0000226299 00000 n
-0000226383 00000 n
-0000226470 00000 n
-0000226554 00000 n
-0000226641 00000 n
-0000226742 00000 n
-0000226846 00000 n
-0000226930 00000 n
-0000227017 00000 n
-0000227101 00000 n
-0000227188 00000 n
-0000227272 00000 n
-0000227359 00000 n
-0000227443 00000 n
-0000227530 00000 n
-0000227614 00000 n
-0000227701 00000 n
-0000227785 00000 n
-0000227872 00000 n
-0000227973 00000 n
-0000228077 00000 n
-0000228161 00000 n
-0000228248 00000 n
-0000228332 00000 n
-0000228419 00000 n
-0000228503 00000 n
-0000228590 00000 n
-0000228674 00000 n
-0000228761 00000 n
-0000228845 00000 n
-0000228932 00000 n
-0000229016 00000 n
-0000229103 00000 n
-0000229204 00000 n
-0000229308 00000 n
-0000229392 00000 n
-0000229479 00000 n
-0000229563 00000 n
-0000229650 00000 n
-0000229734 00000 n
-0000229821 00000 n
-0000229905 00000 n
-0000229992 00000 n
-0000230076 00000 n
-0000230163 00000 n
-0000230247 00000 n
-0000230334 00000 n
-0000230435 00000 n
-0000230539 00000 n
-0000230619 00000 n
-0000230703 00000 n
-0000230790 00000 n
-0000230874 00000 n
-0000230961 00000 n
-0000231045 00000 n
-0000231132 00000 n
-0000231216 00000 n
-0000231303 00000 n
-0000231387 00000 n
-0000231474 00000 n
-0000231558 00000 n
-0000231645 00000 n
-0000231746 00000 n
-0000231850 00000 n
-0000231934 00000 n
-0000232021 00000 n
-0000232105 00000 n
-0000232192 00000 n
-0000232276 00000 n
-0000232363 00000 n
-0000232447 00000 n
-0000232534 00000 n
-0000232618 00000 n
-0000232705 00000 n
-0000232789 00000 n
-0000232876 00000 n
-0000232977 00000 n
-0000233081 00000 n
-0000233165 00000 n
-0000233252 00000 n
-0000233336 00000 n
-0000233423 00000 n
-0000233507 00000 n
-0000233594 00000 n
-0000233678 00000 n
-0000233765 00000 n
-0000233849 00000 n
-0000233936 00000 n
-0000234020 00000 n
-0000234107 00000 n
-0000234208 00000 n
-0000234312 00000 n
-0000234396 00000 n
-0000234483 00000 n
-0000234567 00000 n
-0000234654 00000 n
-0000234738 00000 n
-0000234825 00000 n
-0000234909 00000 n
-0000234996 00000 n
-0000235080 00000 n
-0000235167 00000 n
-0000235251 00000 n
-0000235338 00000 n
-0000235439 00000 n
-0000235543 00000 n
-0000235627 00000 n
-0000235714 00000 n
-0000235798 00000 n
-0000235885 00000 n
-0000235969 00000 n
-0000236056 00000 n
-0000236140 00000 n
-0000236227 00000 n
-0000236311 00000 n
-0000236398 00000 n
-0000236482 00000 n
-0000236569 00000 n
-0000236670 00000 n
-0000236774 00000 n
-0000236858 00000 n
-0000236945 00000 n
-0000237029 00000 n
-0000237116 00000 n
-0000237200 00000 n
-0000237287 00000 n
-0000237371 00000 n
-0000237458 00000 n
-0000237542 00000 n
-0000237629 00000 n
-0000237713 00000 n
-0000237800 00000 n
-0000237901 00000 n
-0000238005 00000 n
-0000238089 00000 n
-0000238176 00000 n
-0000238260 00000 n
-0000238347 00000 n
-0000238431 00000 n
-0000238518 00000 n
-0000238602 00000 n
-0000238689 00000 n
-0000238773 00000 n
-0000238860 00000 n
-0000238944 00000 n
-0000239031 00000 n
-0000239132 00000 n
-0000239236 00000 n
-0000239320 00000 n
-0000239407 00000 n
-0000239491 00000 n
-0000239578 00000 n
-0000239662 00000 n
-0000239749 00000 n
-0000239833 00000 n
-0000239920 00000 n
-0000240004 00000 n
-0000240091 00000 n
-0000240175 00000 n
-0000240262 00000 n
-0000240363 00000 n
-0000240467 00000 n
-0000240551 00000 n
-0000240638 00000 n
-0000240722 00000 n
-0000240809 00000 n
-0000240893 00000 n
-0000240980 00000 n
-0000241064 00000 n
-0000241151 00000 n
-0000241235 00000 n
-0000241322 00000 n
-0000241406 00000 n
-0000241493 00000 n
-0000241594 00000 n
-0000241698 00000 n
-0000241782 00000 n
-0000241869 00000 n
-0000241953 00000 n
-0000242040 00000 n
-0000242124 00000 n
-0000242211 00000 n
-0000242295 00000 n
-0000242382 00000 n
-0000242466 00000 n
-0000242553 00000 n
-0000242637 00000 n
-0000242724 00000 n
-0000242825 00000 n
-0000242929 00000 n
-0000243013 00000 n
-0000243100 00000 n
-0000243184 00000 n
-0000243271 00000 n
-0000243355 00000 n
-0000243442 00000 n
-0000243526 00000 n
-0000243613 00000 n
-0000243697 00000 n
-0000243784 00000 n
-0000243868 00000 n
-0000243955 00000 n
-0000244056 00000 n
-0000244160 00000 n
-0000244244 00000 n
-0000244331 00000 n
-0000244415 00000 n
-0000244502 00000 n
-0000244586 00000 n
-0000244673 00000 n
-0000244757 00000 n
-0000244844 00000 n
-0000244928 00000 n
-0000245015 00000 n
-0000245099 00000 n
-0000245186 00000 n
-0000245287 00000 n
-0000245391 00000 n
-0000245475 00000 n
-0000245562 00000 n
-0000245646 00000 n
-0000245733 00000 n
-0000245817 00000 n
-0000245904 00000 n
-0000245988 00000 n
-0000246075 00000 n
-0000246159 00000 n
-0000246246 00000 n
-0000246330 00000 n
-0000246417 00000 n
-0000246518 00000 n
-0000246622 00000 n
-0000246706 00000 n
-0000246793 00000 n
-0000246877 00000 n
-0000246964 00000 n
-0000247048 00000 n
-0000247135 00000 n
-0000247219 00000 n
-0000247306 00000 n
-0000247390 00000 n
-0000247477 00000 n
-0000247561 00000 n
-0000247648 00000 n
-0000247749 00000 n
-0000247853 00000 n
-0000247937 00000 n
-0000248024 00000 n
-0000248108 00000 n
-0000248195 00000 n
-0000248279 00000 n
-0000248366 00000 n
-0000248450 00000 n
-0000248537 00000 n
-0000248621 00000 n
-0000248708 00000 n
-0000248792 00000 n
-0000248879 00000 n
-0000248980 00000 n
-0000249084 00000 n
-0000249168 00000 n
-0000249255 00000 n
-0000249339 00000 n
-0000249426 00000 n
-0000249510 00000 n
-0000249597 00000 n
-0000249681 00000 n
-0000249768 00000 n
-0000249852 00000 n
-0000249939 00000 n
-0000250023 00000 n
-0000250110 00000 n
-0000250193 00000 n
-0000250294 00000 n
-0000250398 00000 n
-0000250482 00000 n
-0000250569 00000 n
-0000250653 00000 n
-0000250740 00000 n
-0000250824 00000 n
-0000250911 00000 n
-0000250995 00000 n
-0000251082 00000 n
-0000251166 00000 n
-0000251253 00000 n
-0000251337 00000 n
-0000251424 00000 n
-0000251525 00000 n
-0000251629 00000 n
-0000251713 00000 n
-0000251800 00000 n
-0000251884 00000 n
-0000251971 00000 n
-0000252055 00000 n
-0000252142 00000 n
-0000252226 00000 n
-0000252313 00000 n
-0000252397 00000 n
-0000252484 00000 n
-0000252568 00000 n
-0000252655 00000 n
-0000252756 00000 n
-0000252860 00000 n
-0000252944 00000 n
-0000253031 00000 n
-0000253115 00000 n
-0000253202 00000 n
-0000253286 00000 n
-0000253373 00000 n
-0000253457 00000 n
-0000253544 00000 n
-0000253628 00000 n
-0000253715 00000 n
-0000253799 00000 n
-0000253886 00000 n
-0000253987 00000 n
-0000254091 00000 n
-0000254175 00000 n
-0000254262 00000 n
-0000254346 00000 n
-0000254433 00000 n
-0000254517 00000 n
-0000254604 00000 n
-0000254688 00000 n
-0000254775 00000 n
-0000254859 00000 n
-0000254946 00000 n
-0000255030 00000 n
-0000255117 00000 n
-0000255218 00000 n
-0000255322 00000 n
-0000255406 00000 n
-0000255493 00000 n
-0000255577 00000 n
-0000255664 00000 n
-0000255748 00000 n
-0000255835 00000 n
-0000255919 00000 n
-0000256006 00000 n
-0000256090 00000 n
-0000256177 00000 n
-0000256261 00000 n
-0000256348 00000 n
-0000256449 00000 n
-0000256553 00000 n
-0000256637 00000 n
-0000256724 00000 n
-0000256808 00000 n
-0000256895 00000 n
-0000256979 00000 n
-0000257066 00000 n
-0000257150 00000 n
-0000257237 00000 n
-0000257321 00000 n
-0000257408 00000 n
-0000257492 00000 n
-0000257579 00000 n
-0000257680 00000 n
-0000257784 00000 n
-0000257868 00000 n
-0000257955 00000 n
-0000258039 00000 n
-0000258126 00000 n
-0000258210 00000 n
-0000258297 00000 n
-0000258381 00000 n
-0000258468 00000 n
-0000258552 00000 n
-0000258639 00000 n
-0000258723 00000 n
-0000258810 00000 n
-0000258911 00000 n
-0000259015 00000 n
-0000259099 00000 n
-0000259186 00000 n
-0000259270 00000 n
-0000259357 00000 n
-0000259441 00000 n
-0000259528 00000 n
-0000259612 00000 n
-0000259699 00000 n
-0000259783 00000 n
-0000259870 00000 n
-0000259954 00000 n
-0000260041 00000 n
-0000260142 00000 n
-0000260246 00000 n
-0000260330 00000 n
-0000260417 00000 n
-0000260501 00000 n
-0000260588 00000 n
-0000260672 00000 n
-0000260759 00000 n
-0000260843 00000 n
-0000260930 00000 n
-0000261014 00000 n
-0000261101 00000 n
-0000261185 00000 n
-0000261272 00000 n
-0000261373 00000 n
-0000261477 00000 n
-0000261561 00000 n
-0000261648 00000 n
-0000261732 00000 n
-0000261819 00000 n
-0000261903 00000 n
-0000261990 00000 n
-0000262074 00000 n
-0000262161 00000 n
-0000262245 00000 n
-0000262332 00000 n
-0000262416 00000 n
-0000262503 00000 n
-0000262604 00000 n
-0000262708 00000 n
-0000262792 00000 n
-0000262879 00000 n
-0000262963 00000 n
-0000263050 00000 n
-0000263134 00000 n
-0000263221 00000 n
-0000263305 00000 n
-0000263392 00000 n
-0000263476 00000 n
-0000263563 00000 n
-0000263647 00000 n
-0000263734 00000 n
-0000263835 00000 n
-0000263939 00000 n
-0000264023 00000 n
-0000264110 00000 n
-0000264194 00000 n
-0000264281 00000 n
-0000264365 00000 n
-0000264452 00000 n
-0000264536 00000 n
-0000264623 00000 n
-0000264707 00000 n
-0000264794 00000 n
-0000264878 00000 n
-0000264965 00000 n
-0000265066 00000 n
-0000265170 00000 n
-0000265254 00000 n
-0000265341 00000 n
-0000265425 00000 n
-0000265512 00000 n
-0000265596 00000 n
-0000265683 00000 n
-0000265767 00000 n
-0000265854 00000 n
-0000265938 00000 n
-0000266025 00000 n
-0000266109 00000 n
-0000266196 00000 n
-0000266297 00000 n
-0000266401 00000 n
-0000266485 00000 n
-0000266572 00000 n
-0000266656 00000 n
-0000266743 00000 n
-0000266827 00000 n
-0000266914 00000 n
-0000266998 00000 n
-0000267085 00000 n
-0000267169 00000 n
-0000267256 00000 n
-0000267340 00000 n
-0000267427 00000 n
-0000267528 00000 n
-0000267632 00000 n
-0000267716 00000 n
-0000267803 00000 n
-0000267887 00000 n
-0000267974 00000 n
-0000268058 00000 n
-0000268145 00000 n
-0000268229 00000 n
-0000268316 00000 n
-0000268400 00000 n
-0000268487 00000 n
-0000268571 00000 n
-0000268658 00000 n
-0000268716 00000 n
-0000268774 00000 n
-0000268832 00000 n
-0000268890 00000 n
-0000268991 00000 n
-0000269095 00000 n
-0000269179 00000 n
-0000269266 00000 n
-0000269350 00000 n
-0000269437 00000 n
-0000269521 00000 n
-0000269608 00000 n
-0000269692 00000 n
-0000269779 00000 n
-0000269863 00000 n
-0000269950 00000 n
-0000270034 00000 n
-0000270121 00000 n
-0000270179 00000 n
-0000270237 00000 n
-0000270295 00000 n
-0000270353 00000 n
-0000270454 00000 n
-0000270558 00000 n
-0000270642 00000 n
-0000270729 00000 n
-0000270813 00000 n
-0000270900 00000 n
-0000270984 00000 n
-0000271071 00000 n
-0000271155 00000 n
-0000271242 00000 n
-0000271326 00000 n
-0000271413 00000 n
-0000271497 00000 n
-0000271584 00000 n
-0000271642 00000 n
-0000271700 00000 n
-0000271758 00000 n
-0000271816 00000 n
-0000271917 00000 n
-0000272021 00000 n
-0000272105 00000 n
-0000272192 00000 n
-0000272276 00000 n
-0000272363 00000 n
-0000272447 00000 n
-0000272534 00000 n
-0000272618 00000 n
-0000272705 00000 n
-0000272789 00000 n
-0000272876 00000 n
-0000272960 00000 n
-0000273047 00000 n
-0000273105 00000 n
-0000273163 00000 n
-0000273264 00000 n
-0000273368 00000 n
-0000273469 00000 n
+0000123175 00000 n
+0000123389 00000 n
+0000123603 00000 n
+0000123814 00000 n
+0000124028 00000 n
+0000124239 00000 n
+0000124460 00000 n
+0000124641 00000 n
+0000124865 00000 n
+0000125079 00000 n
+0000125293 00000 n
+0000125507 00000 n
+0000125718 00000 n
+0000125932 00000 n
+0000126148 00000 n
+0000126370 00000 n
+0000126552 00000 n
+0000126777 00000 n
+0000126992 00000 n
+0000127207 00000 n
+0000127422 00000 n
+0000127636 00000 n
+0000127851 00000 n
+0000128067 00000 n
+0000128287 00000 n
+0000128469 00000 n
+0000128694 00000 n
+0000128909 00000 n
+0000129124 00000 n
+0000129339 00000 n
+0000129553 00000 n
+0000129768 00000 n
+0000129984 00000 n
+0000130222 00000 n
+0000130406 00000 n
+0000130631 00000 n
+0000130846 00000 n
+0000131061 00000 n
+0000131276 00000 n
+0000131490 00000 n
+0000131705 00000 n
+0000131921 00000 n
+0000132141 00000 n
+0000132323 00000 n
+0000132548 00000 n
+0000132763 00000 n
+0000132978 00000 n
+0000133193 00000 n
+0000133407 00000 n
+0000133622 00000 n
+0000133838 00000 n
+0000134060 00000 n
+0000134242 00000 n
+0000134465 00000 n
+0000134680 00000 n
+0000134895 00000 n
+0000135110 00000 n
+0000135324 00000 n
+0000135539 00000 n
+0000135755 00000 n
+0000135977 00000 n
+0000136159 00000 n
+0000136382 00000 n
+0000136597 00000 n
+0000136812 00000 n
+0000137027 00000 n
+0000137241 00000 n
+0000137456 00000 n
+0000137672 00000 n
+0000137892 00000 n
+0000138074 00000 n
+0000138299 00000 n
+0000138514 00000 n
+0000138729 00000 n
+0000138944 00000 n
+0000139158 00000 n
+0000139373 00000 n
+0000139589 00000 n
+0000139809 00000 n
+0000139981 00000 n
+0000140196 00000 n
+0000140411 00000 n
+0000140638 00000 n
+0000140853 00000 n
+0000141067 00000 n
+0000141282 00000 n
+0000141498 00000 n
+0000141718 00000 n
+0000141900 00000 n
+0000142125 00000 n
+0000142340 00000 n
+0000142555 00000 n
+0000142770 00000 n
+0000142984 00000 n
+0000143199 00000 n
+0000143415 00000 n
+0000143637 00000 n
+0000143819 00000 n
+0000144044 00000 n
+0000144259 00000 n
+0000144474 00000 n
+0000144689 00000 n
+0000144903 00000 n
+0000145118 00000 n
+0000145334 00000 n
+0000145572 00000 n
+0000145756 00000 n
+0000145981 00000 n
+0000146196 00000 n
+0000146411 00000 n
+0000146626 00000 n
+0000146840 00000 n
+0000147055 00000 n
+0000147271 00000 n
+0000147479 00000 n
+0000147661 00000 n
+0000147876 00000 n
+0000148103 00000 n
+0000148330 00000 n
+0000148545 00000 n
+0000148759 00000 n
+0000148974 00000 n
+0000149190 00000 n
+0000149398 00000 n
+0000149580 00000 n
+0000149795 00000 n
+0000150020 00000 n
+0000150245 00000 n
+0000150460 00000 n
+0000150674 00000 n
+0000150889 00000 n
+0000151105 00000 n
+0000151313 00000 n
+0000151495 00000 n
+0000151710 00000 n
+0000151935 00000 n
+0000152160 00000 n
+0000152375 00000 n
+0000152589 00000 n
+0000152804 00000 n
+0000153020 00000 n
+0000153228 00000 n
+0000153410 00000 n
+0000153625 00000 n
+0000153852 00000 n
+0000154079 00000 n
+0000154294 00000 n
+0000154508 00000 n
+0000154723 00000 n
+0000154939 00000 n
+0000155147 00000 n
+0000155329 00000 n
+0000155544 00000 n
+0000155771 00000 n
+0000155998 00000 n
+0000156213 00000 n
+0000156427 00000 n
+0000156642 00000 n
+0000156858 00000 n
+0000157066 00000 n
+0000157248 00000 n
+0000157463 00000 n
+0000157690 00000 n
+0000157917 00000 n
+0000158132 00000 n
+0000158346 00000 n
+0000158561 00000 n
+0000158777 00000 n
+0000158999 00000 n
+0000159181 00000 n
+0000159406 00000 n
+0000159621 00000 n
+0000159836 00000 n
+0000160051 00000 n
+0000160265 00000 n
+0000160480 00000 n
+0000160696 00000 n
+0000160916 00000 n
+0000161098 00000 n
+0000161333 00000 n
+0000161548 00000 n
+0000161763 00000 n
+0000161978 00000 n
+0000162192 00000 n
+0000162407 00000 n
+0000162623 00000 n
+0000162843 00000 n
+0000163025 00000 n
+0000163250 00000 n
+0000163465 00000 n
+0000163680 00000 n
+0000163895 00000 n
+0000164109 00000 n
+0000164324 00000 n
+0000164539 00000 n
+0000164746 00000 n
+0000164927 00000 n
+0000165141 00000 n
+0000165365 00000 n
+0000165589 00000 n
+0000165803 00000 n
+0000166014 00000 n
+0000166228 00000 n
+0000166440 00000 n
+0000166646 00000 n
+0000166826 00000 n
+0000167037 00000 n
+0000167260 00000 n
+0000167483 00000 n
+0000167694 00000 n
+0000167904 00000 n
+0000168115 00000 n
+0000168330 00000 n
+0000168537 00000 n
+0000168718 00000 n
+0000168932 00000 n
+0000169158 00000 n
+0000169384 00000 n
+0000169598 00000 n
+0000169809 00000 n
+0000170023 00000 n
+0000170224 00000 n
+0000170431 00000 n
+0000170612 00000 n
+0000170826 00000 n
+0000171050 00000 n
+0000171274 00000 n
+0000171488 00000 n
+0000171699 00000 n
+0000171913 00000 n
+0000172128 00000 n
+0000172339 00000 n
+0000172518 00000 n
+0000172732 00000 n
+0000172946 00000 n
+0000173160 00000 n
+0000173386 00000 n
+0000173597 00000 n
+0000173811 00000 n
+0000174020 00000 n
+0000174193 00000 n
+0000174372 00000 n
+0000174586 00000 n
+0000174800 00000 n
+0000175014 00000 n
+0000175228 00000 n
+0000175439 00000 n
+0000175653 00000 n
+0000175862 00000 n
+0000176035 00000 n
+0000176214 00000 n
+0000176428 00000 n
+0000176642 00000 n
+0000176856 00000 n
+0000177070 00000 n
+0000177281 00000 n
+0000177495 00000 n
+0000177703 00000 n
+0000177875 00000 n
+0000178052 00000 n
+0000178263 00000 n
+0000178474 00000 n
+0000178685 00000 n
+0000178896 00000 n
+0000179106 00000 n
+0000179317 00000 n
+0000179526 00000 n
+0000179699 00000 n
+0000179878 00000 n
+0000180092 00000 n
+0000180306 00000 n
+0000180520 00000 n
+0000180734 00000 n
+0000180945 00000 n
+0000181159 00000 n
+0000181369 00000 n
+0000181543 00000 n
+0000181723 00000 n
+0000181938 00000 n
+0000182153 00000 n
+0000182368 00000 n
+0000182583 00000 n
+0000182797 00000 n
+0000183012 00000 n
+0000183222 00000 n
+0000183396 00000 n
+0000183576 00000 n
+0000183791 00000 n
+0000184006 00000 n
+0000184221 00000 n
+0000184436 00000 n
+0000184650 00000 n
+0000184865 00000 n
+0000185075 00000 n
+0000185235 00000 n
+0000185415 00000 n
+0000185630 00000 n
+0000185845 00000 n
+0000186060 00000 n
+0000186275 00000 n
+0000186489 00000 n
+0000186704 00000 n
+0000186914 00000 n
+0000187088 00000 n
+0000187268 00000 n
+0000187483 00000 n
+0000187698 00000 n
+0000187913 00000 n
+0000188128 00000 n
+0000188342 00000 n
+0000188557 00000 n
+0000188767 00000 n
+0000188941 00000 n
+0000189121 00000 n
+0000189336 00000 n
+0000189551 00000 n
+0000189766 00000 n
+0000189981 00000 n
+0000190195 00000 n
+0000190410 00000 n
+0000190619 00000 n
+0000190792 00000 n
+0000190971 00000 n
+0000191185 00000 n
+0000191399 00000 n
+0000191612 00000 n
+0000191824 00000 n
+0000192033 00000 n
+0000192245 00000 n
+0000192453 00000 n
+0000192627 00000 n
+0000192807 00000 n
+0000193020 00000 n
+0000193233 00000 n
+0000193446 00000 n
+0000193659 00000 n
+0000193871 00000 n
+0000194084 00000 n
+0000194292 00000 n
+0000194466 00000 n
+0000194646 00000 n
+0000194859 00000 n
+0000195072 00000 n
+0000195285 00000 n
+0000195498 00000 n
+0000195710 00000 n
+0000195923 00000 n
+0000196131 00000 n
+0000196305 00000 n
+0000196485 00000 n
+0000196698 00000 n
+0000196911 00000 n
+0000197124 00000 n
+0000197337 00000 n
+0000197549 00000 n
+0000197762 00000 n
+0000197970 00000 n
+0000198144 00000 n
+0000198324 00000 n
+0000198537 00000 n
+0000198750 00000 n
+0000198963 00000 n
+0000199176 00000 n
+0000199388 00000 n
+0000199601 00000 n
+0000199809 00000 n
+0000199983 00000 n
+0000200163 00000 n
+0000200376 00000 n
+0000200589 00000 n
+0000200802 00000 n
+0000201015 00000 n
+0000201227 00000 n
+0000201440 00000 n
+0000201648 00000 n
+0000201822 00000 n
+0000202002 00000 n
+0000202215 00000 n
+0000202428 00000 n
+0000202641 00000 n
+0000202854 00000 n
+0000203050 00000 n
+0000203263 00000 n
+0000203490 00000 n
+0000203711 00000 n
+0000203932 00000 n
+0000204148 00000 n
+0000204450 00000 n
+0000204709 00000 n
+0000206666 00000 n
+0000206849 00000 n
+0000207093 00000 n
+0000207416 00000 n
+0000207438 00000 n
+0000207495 00000 n
+0000207552 00000 n
+0000207574 00000 n
+0000207631 00000 n
+0000207688 00000 n
+0000207745 00000 n
+0000207802 00000 n
+0000207859 00000 n
+0000207916 00000 n
+0000207973 00000 n
+0000208030 00000 n
+0000208113 00000 n
+0000208199 00000 n
+0000208282 00000 n
+0000208368 00000 n
+0000208456 00000 n
+0000208669 00000 n
+0000208717 00000 n
+0000208800 00000 n
+0000208886 00000 n
+0000209080 00000 n
+0000209123 00000 n
+0000209211 00000 n
+0000210066 00000 n
+0000210149 00000 n
+0000210235 00000 n
+0000210318 00000 n
+0000210404 00000 n
+0000210487 00000 n
+0000210573 00000 n
+0000210656 00000 n
+0000210742 00000 n
+0000210842 00000 n
+0000210945 00000 n
+0000211028 00000 n
+0000211114 00000 n
+0000211197 00000 n
+0000211283 00000 n
+0000211366 00000 n
+0000211452 00000 n
+0000211535 00000 n
+0000211621 00000 n
+0000211704 00000 n
+0000211790 00000 n
+0000211873 00000 n
+0000211959 00000 n
+0000212059 00000 n
+0000212162 00000 n
+0000212245 00000 n
+0000212331 00000 n
+0000212414 00000 n
+0000212500 00000 n
+0000212583 00000 n
+0000212669 00000 n
+0000212752 00000 n
+0000212838 00000 n
+0000212921 00000 n
+0000213007 00000 n
+0000213090 00000 n
+0000213176 00000 n
+0000213276 00000 n
+0000213379 00000 n
+0000213462 00000 n
+0000213548 00000 n
+0000213631 00000 n
+0000213717 00000 n
+0000213800 00000 n
+0000213886 00000 n
+0000213969 00000 n
+0000214055 00000 n
+0000214138 00000 n
+0000214224 00000 n
+0000214307 00000 n
+0000214393 00000 n
+0000214493 00000 n
+0000214596 00000 n
+0000214679 00000 n
+0000214765 00000 n
+0000214848 00000 n
+0000214934 00000 n
+0000215017 00000 n
+0000215103 00000 n
+0000215186 00000 n
+0000215272 00000 n
+0000215355 00000 n
+0000215441 00000 n
+0000215524 00000 n
+0000215610 00000 n
+0000215710 00000 n
+0000215813 00000 n
+0000215896 00000 n
+0000215982 00000 n
+0000216065 00000 n
+0000216151 00000 n
+0000216234 00000 n
+0000216320 00000 n
+0000216403 00000 n
+0000216489 00000 n
+0000216572 00000 n
+0000216658 00000 n
+0000216741 00000 n
+0000216827 00000 n
+0000216927 00000 n
+0000217030 00000 n
+0000217113 00000 n
+0000217199 00000 n
+0000217282 00000 n
+0000217368 00000 n
+0000217451 00000 n
+0000217537 00000 n
+0000217620 00000 n
+0000217707 00000 n
+0000217791 00000 n
+0000217878 00000 n
+0000217962 00000 n
+0000218049 00000 n
+0000218150 00000 n
+0000218254 00000 n
+0000218338 00000 n
+0000218425 00000 n
+0000218509 00000 n
+0000218596 00000 n
+0000218680 00000 n
+0000218767 00000 n
+0000218851 00000 n
+0000218938 00000 n
+0000219022 00000 n
+0000219109 00000 n
+0000219193 00000 n
+0000219280 00000 n
+0000219381 00000 n
+0000219485 00000 n
+0000219569 00000 n
+0000219656 00000 n
+0000219740 00000 n
+0000219827 00000 n
+0000219911 00000 n
+0000219998 00000 n
+0000220082 00000 n
+0000220169 00000 n
+0000220253 00000 n
+0000220340 00000 n
+0000220424 00000 n
+0000220511 00000 n
+0000220612 00000 n
+0000220716 00000 n
+0000220800 00000 n
+0000220887 00000 n
+0000220971 00000 n
+0000221058 00000 n
+0000221142 00000 n
+0000221229 00000 n
+0000221313 00000 n
+0000221400 00000 n
+0000221484 00000 n
+0000221571 00000 n
+0000221655 00000 n
+0000221742 00000 n
+0000221822 00000 n
+0000221923 00000 n
+0000222027 00000 n
+0000222111 00000 n
+0000222198 00000 n
+0000222282 00000 n
+0000222369 00000 n
+0000222453 00000 n
+0000222540 00000 n
+0000222624 00000 n
+0000222711 00000 n
+0000222795 00000 n
+0000222882 00000 n
+0000222966 00000 n
+0000223053 00000 n
+0000223154 00000 n
+0000223258 00000 n
+0000223342 00000 n
+0000223429 00000 n
+0000223513 00000 n
+0000223600 00000 n
+0000223684 00000 n
+0000223771 00000 n
+0000223855 00000 n
+0000223942 00000 n
+0000224026 00000 n
+0000224113 00000 n
+0000224197 00000 n
+0000224284 00000 n
+0000224385 00000 n
+0000224489 00000 n
+0000224573 00000 n
+0000224660 00000 n
+0000224744 00000 n
+0000224831 00000 n
+0000224915 00000 n
+0000225002 00000 n
+0000225086 00000 n
+0000225173 00000 n
+0000225257 00000 n
+0000225344 00000 n
+0000225428 00000 n
+0000225515 00000 n
+0000225616 00000 n
+0000225720 00000 n
+0000225804 00000 n
+0000225891 00000 n
+0000225975 00000 n
+0000226062 00000 n
+0000226146 00000 n
+0000226233 00000 n
+0000226317 00000 n
+0000226404 00000 n
+0000226488 00000 n
+0000226575 00000 n
+0000226659 00000 n
+0000226746 00000 n
+0000226847 00000 n
+0000226951 00000 n
+0000227035 00000 n
+0000227122 00000 n
+0000227206 00000 n
+0000227293 00000 n
+0000227377 00000 n
+0000227464 00000 n
+0000227548 00000 n
+0000227635 00000 n
+0000227719 00000 n
+0000227806 00000 n
+0000227890 00000 n
+0000227977 00000 n
+0000228078 00000 n
+0000228182 00000 n
+0000228266 00000 n
+0000228353 00000 n
+0000228437 00000 n
+0000228524 00000 n
+0000228608 00000 n
+0000228695 00000 n
+0000228779 00000 n
+0000228866 00000 n
+0000228950 00000 n
+0000229037 00000 n
+0000229121 00000 n
+0000229208 00000 n
+0000229309 00000 n
+0000229413 00000 n
+0000229497 00000 n
+0000229584 00000 n
+0000229668 00000 n
+0000229755 00000 n
+0000229839 00000 n
+0000229926 00000 n
+0000230010 00000 n
+0000230097 00000 n
+0000230181 00000 n
+0000230268 00000 n
+0000230352 00000 n
+0000230439 00000 n
+0000230540 00000 n
+0000230644 00000 n
+0000230728 00000 n
+0000230815 00000 n
+0000230899 00000 n
+0000230986 00000 n
+0000231070 00000 n
+0000231157 00000 n
+0000231241 00000 n
+0000231328 00000 n
+0000231412 00000 n
+0000231499 00000 n
+0000231583 00000 n
+0000231670 00000 n
+0000231771 00000 n
+0000231875 00000 n
+0000231959 00000 n
+0000232043 00000 n
+0000232130 00000 n
+0000232214 00000 n
+0000232301 00000 n
+0000232385 00000 n
+0000232472 00000 n
+0000232556 00000 n
+0000232643 00000 n
+0000232727 00000 n
+0000232814 00000 n
+0000232898 00000 n
+0000232985 00000 n
+0000233086 00000 n
+0000233190 00000 n
+0000233274 00000 n
+0000233361 00000 n
+0000233445 00000 n
+0000233532 00000 n
+0000233616 00000 n
+0000233703 00000 n
+0000233787 00000 n
+0000233874 00000 n
+0000233958 00000 n
+0000234045 00000 n
+0000234129 00000 n
+0000234216 00000 n
+0000234317 00000 n
+0000234421 00000 n
+0000234505 00000 n
+0000234592 00000 n
+0000234676 00000 n
+0000234763 00000 n
+0000234847 00000 n
+0000234934 00000 n
+0000235018 00000 n
+0000235105 00000 n
+0000235189 00000 n
+0000235276 00000 n
+0000235360 00000 n
+0000235447 00000 n
+0000235548 00000 n
+0000235652 00000 n
+0000235736 00000 n
+0000235823 00000 n
+0000235907 00000 n
+0000235994 00000 n
+0000236078 00000 n
+0000236165 00000 n
+0000236249 00000 n
+0000236336 00000 n
+0000236420 00000 n
+0000236507 00000 n
+0000236591 00000 n
+0000236678 00000 n
+0000236779 00000 n
+0000236883 00000 n
+0000236967 00000 n
+0000237054 00000 n
+0000237138 00000 n
+0000237225 00000 n
+0000237309 00000 n
+0000237396 00000 n
+0000237480 00000 n
+0000237567 00000 n
+0000237651 00000 n
+0000237738 00000 n
+0000237822 00000 n
+0000237909 00000 n
+0000238010 00000 n
+0000238114 00000 n
+0000238198 00000 n
+0000238285 00000 n
+0000238369 00000 n
+0000238456 00000 n
+0000238540 00000 n
+0000238627 00000 n
+0000238711 00000 n
+0000238798 00000 n
+0000238882 00000 n
+0000238969 00000 n
+0000239053 00000 n
+0000239140 00000 n
+0000239241 00000 n
+0000239345 00000 n
+0000239429 00000 n
+0000239516 00000 n
+0000239600 00000 n
+0000239687 00000 n
+0000239771 00000 n
+0000239858 00000 n
+0000239942 00000 n
+0000240029 00000 n
+0000240113 00000 n
+0000240200 00000 n
+0000240284 00000 n
+0000240371 00000 n
+0000240472 00000 n
+0000240576 00000 n
+0000240660 00000 n
+0000240747 00000 n
+0000240831 00000 n
+0000240918 00000 n
+0000241002 00000 n
+0000241089 00000 n
+0000241173 00000 n
+0000241260 00000 n
+0000241344 00000 n
+0000241431 00000 n
+0000241515 00000 n
+0000241602 00000 n
+0000241703 00000 n
+0000241807 00000 n
+0000241891 00000 n
+0000241978 00000 n
+0000242062 00000 n
+0000242149 00000 n
+0000242233 00000 n
+0000242320 00000 n
+0000242404 00000 n
+0000242491 00000 n
+0000242575 00000 n
+0000242662 00000 n
+0000242746 00000 n
+0000242833 00000 n
+0000242934 00000 n
+0000243038 00000 n
+0000243122 00000 n
+0000243209 00000 n
+0000243293 00000 n
+0000243380 00000 n
+0000243464 00000 n
+0000243551 00000 n
+0000243635 00000 n
+0000243722 00000 n
+0000243806 00000 n
+0000243893 00000 n
+0000243977 00000 n
+0000244064 00000 n
+0000244165 00000 n
+0000244269 00000 n
+0000244353 00000 n
+0000244440 00000 n
+0000244524 00000 n
+0000244611 00000 n
+0000244695 00000 n
+0000244782 00000 n
+0000244866 00000 n
+0000244953 00000 n
+0000245037 00000 n
+0000245124 00000 n
+0000245208 00000 n
+0000245295 00000 n
+0000245396 00000 n
+0000245500 00000 n
+0000245584 00000 n
+0000245671 00000 n
+0000245755 00000 n
+0000245842 00000 n
+0000245926 00000 n
+0000246013 00000 n
+0000246097 00000 n
+0000246184 00000 n
+0000246268 00000 n
+0000246355 00000 n
+0000246439 00000 n
+0000246526 00000 n
+0000246627 00000 n
+0000246731 00000 n
+0000246815 00000 n
+0000246902 00000 n
+0000246986 00000 n
+0000247073 00000 n
+0000247157 00000 n
+0000247244 00000 n
+0000247328 00000 n
+0000247415 00000 n
+0000247499 00000 n
+0000247586 00000 n
+0000247670 00000 n
+0000247757 00000 n
+0000247858 00000 n
+0000247962 00000 n
+0000248046 00000 n
+0000248133 00000 n
+0000248217 00000 n
+0000248304 00000 n
+0000248388 00000 n
+0000248475 00000 n
+0000248559 00000 n
+0000248646 00000 n
+0000248730 00000 n
+0000248817 00000 n
+0000248901 00000 n
+0000248988 00000 n
+0000249089 00000 n
+0000249193 00000 n
+0000249277 00000 n
+0000249364 00000 n
+0000249448 00000 n
+0000249535 00000 n
+0000249619 00000 n
+0000249706 00000 n
+0000249790 00000 n
+0000249877 00000 n
+0000249961 00000 n
+0000250048 00000 n
+0000250132 00000 n
+0000250219 00000 n
+0000250320 00000 n
+0000250424 00000 n
+0000250508 00000 n
+0000250595 00000 n
+0000250679 00000 n
+0000250766 00000 n
+0000250850 00000 n
+0000250937 00000 n
+0000251021 00000 n
+0000251108 00000 n
+0000251192 00000 n
+0000251279 00000 n
+0000251363 00000 n
+0000251450 00000 n
+0000251535 00000 n
+0000251636 00000 n
+0000251740 00000 n
+0000251824 00000 n
+0000251911 00000 n
+0000251995 00000 n
+0000252082 00000 n
+0000252166 00000 n
+0000252253 00000 n
+0000252337 00000 n
+0000252424 00000 n
+0000252508 00000 n
+0000252595 00000 n
+0000252679 00000 n
+0000252766 00000 n
+0000252867 00000 n
+0000252971 00000 n
+0000253055 00000 n
+0000253142 00000 n
+0000253226 00000 n
+0000253313 00000 n
+0000253397 00000 n
+0000253484 00000 n
+0000253568 00000 n
+0000253655 00000 n
+0000253739 00000 n
+0000253826 00000 n
+0000253910 00000 n
+0000253997 00000 n
+0000254098 00000 n
+0000254202 00000 n
+0000254286 00000 n
+0000254373 00000 n
+0000254457 00000 n
+0000254544 00000 n
+0000254628 00000 n
+0000254715 00000 n
+0000254799 00000 n
+0000254886 00000 n
+0000254970 00000 n
+0000255057 00000 n
+0000255141 00000 n
+0000255228 00000 n
+0000255329 00000 n
+0000255433 00000 n
+0000255517 00000 n
+0000255604 00000 n
+0000255688 00000 n
+0000255775 00000 n
+0000255859 00000 n
+0000255946 00000 n
+0000256030 00000 n
+0000256117 00000 n
+0000256201 00000 n
+0000256288 00000 n
+0000256372 00000 n
+0000256459 00000 n
+0000256560 00000 n
+0000256664 00000 n
+0000256748 00000 n
+0000256835 00000 n
+0000256919 00000 n
+0000257006 00000 n
+0000257090 00000 n
+0000257177 00000 n
+0000257261 00000 n
+0000257348 00000 n
+0000257432 00000 n
+0000257519 00000 n
+0000257603 00000 n
+0000257690 00000 n
+0000257791 00000 n
+0000257895 00000 n
+0000257979 00000 n
+0000258066 00000 n
+0000258150 00000 n
+0000258237 00000 n
+0000258321 00000 n
+0000258408 00000 n
+0000258492 00000 n
+0000258579 00000 n
+0000258663 00000 n
+0000258750 00000 n
+0000258834 00000 n
+0000258921 00000 n
+0000259022 00000 n
+0000259126 00000 n
+0000259210 00000 n
+0000259297 00000 n
+0000259381 00000 n
+0000259468 00000 n
+0000259552 00000 n
+0000259639 00000 n
+0000259723 00000 n
+0000259810 00000 n
+0000259894 00000 n
+0000259981 00000 n
+0000260065 00000 n
+0000260152 00000 n
+0000260253 00000 n
+0000260357 00000 n
+0000260441 00000 n
+0000260528 00000 n
+0000260612 00000 n
+0000260699 00000 n
+0000260783 00000 n
+0000260870 00000 n
+0000260954 00000 n
+0000261041 00000 n
+0000261125 00000 n
+0000261212 00000 n
+0000261296 00000 n
+0000261383 00000 n
+0000261484 00000 n
+0000261588 00000 n
+0000261672 00000 n
+0000261759 00000 n
+0000261843 00000 n
+0000261930 00000 n
+0000262014 00000 n
+0000262101 00000 n
+0000262185 00000 n
+0000262272 00000 n
+0000262356 00000 n
+0000262443 00000 n
+0000262527 00000 n
+0000262614 00000 n
+0000262715 00000 n
+0000262819 00000 n
+0000262903 00000 n
+0000262990 00000 n
+0000263074 00000 n
+0000263161 00000 n
+0000263245 00000 n
+0000263332 00000 n
+0000263416 00000 n
+0000263503 00000 n
+0000263587 00000 n
+0000263674 00000 n
+0000263758 00000 n
+0000263845 00000 n
+0000263946 00000 n
+0000264050 00000 n
+0000264134 00000 n
+0000264221 00000 n
+0000264305 00000 n
+0000264392 00000 n
+0000264476 00000 n
+0000264563 00000 n
+0000264647 00000 n
+0000264734 00000 n
+0000264818 00000 n
+0000264905 00000 n
+0000264989 00000 n
+0000265076 00000 n
+0000265177 00000 n
+0000265281 00000 n
+0000265365 00000 n
+0000265452 00000 n
+0000265536 00000 n
+0000265623 00000 n
+0000265707 00000 n
+0000265794 00000 n
+0000265878 00000 n
+0000265965 00000 n
+0000266049 00000 n
+0000266136 00000 n
+0000266220 00000 n
+0000266307 00000 n
+0000266408 00000 n
+0000266512 00000 n
+0000266596 00000 n
+0000266683 00000 n
+0000266767 00000 n
+0000266854 00000 n
+0000266938 00000 n
+0000267025 00000 n
+0000267109 00000 n
+0000267196 00000 n
+0000267280 00000 n
+0000267367 00000 n
+0000267451 00000 n
+0000267538 00000 n
+0000267639 00000 n
+0000267743 00000 n
+0000267827 00000 n
+0000267914 00000 n
+0000267998 00000 n
+0000268085 00000 n
+0000268169 00000 n
+0000268256 00000 n
+0000268340 00000 n
+0000268427 00000 n
+0000268511 00000 n
+0000268598 00000 n
+0000268682 00000 n
+0000268769 00000 n
+0000268870 00000 n
+0000268974 00000 n
+0000269058 00000 n
+0000269145 00000 n
+0000269229 00000 n
+0000269316 00000 n
+0000269400 00000 n
+0000269487 00000 n
+0000269571 00000 n
+0000269658 00000 n
+0000269742 00000 n
+0000269829 00000 n
+0000269913 00000 n
+0000270000 00000 n
+0000270058 00000 n
+0000270116 00000 n
+0000270174 00000 n
+0000270232 00000 n
+0000270333 00000 n
+0000270437 00000 n
+0000270521 00000 n
+0000270608 00000 n
+0000270692 00000 n
+0000270779 00000 n
+0000270863 00000 n
+0000270950 00000 n
+0000271034 00000 n
+0000271121 00000 n
+0000271205 00000 n
+0000271292 00000 n
+0000271376 00000 n
+0000271463 00000 n
+0000271521 00000 n
+0000271579 00000 n
+0000271637 00000 n
+0000271695 00000 n
+0000271796 00000 n
+0000271900 00000 n
+0000271984 00000 n
+0000272071 00000 n
+0000272155 00000 n
+0000272242 00000 n
+0000272326 00000 n
+0000272413 00000 n
+0000272497 00000 n
+0000272584 00000 n
+0000272668 00000 n
+0000272755 00000 n
+0000272839 00000 n
+0000272926 00000 n
+0000272984 00000 n
+0000273042 00000 n
+0000273100 00000 n
+0000273158 00000 n
+0000273259 00000 n
+0000273363 00000 n
+0000273447 00000 n
+0000273534 00000 n
+0000273618 00000 n
+0000273705 00000 n
+0000273789 00000 n
+0000273876 00000 n
+0000273960 00000 n
+0000274047 00000 n
+0000274131 00000 n
+0000274218 00000 n
+0000274302 00000 n
+0000274389 00000 n
+0000274447 00000 n
+0000274505 00000 n
+0000274606 00000 n
+0000274710 00000 n
+0000274811 00000 n
 trailer
 
 <</ID
   [<0892186AE2FAE13FF5CECB472860EDB3> <CE62F85FABF74386B980E1EE1DDB0EF8>]
   /Info 1 0 R /Root 2 0 R /Size 1656>>
 startxref
-273555
+274897
 %%EOF

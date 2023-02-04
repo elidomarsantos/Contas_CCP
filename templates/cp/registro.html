@@ -12,11 +12,12 @@
     <form method="POST">
       {% csrf_token %}
          <div class="card-body" > 
-                 <a id="registro_b"href="/view_gerais_contas" class="btn btn-secondary" role="button" aria-pressed="true">Informações Gerais</a>
+                 <a id="registro_b"href="/view_gerais_contas" class="btn btn-primary" role="button" aria-pressed="true">Informações Gerais</a>
+                 <a id="registro_b" href="/resultado" class="btn btn-success" role="button" aria-pressed="true">Confronto e Totais</a>
                  <a id="registro_b" href="/contas"  class="btn btn-secondary">Folha de Contas</a>
                  <a id="registro_b" href="/relatório_mensal" class="btn btn-secondary">Relatório Mensal</a>
-                 <input id="registro_b"type="submit" class="btn btn-info" value="Gerar Registro">
-                 <a id="registro_b" href="{% static 'registro_pronto.pdf' %}"class="btn btn-success" download="TO-62">Download</a>
+                 <input id="registro_b" type="submit" class="btn btn-info" value="Gerar Registro">
+                 <a id="registro_b" href="{% static 'registro_pronto.pdf' %}"class="btn btn-success" download="TO-62">Baixar</a>
              
                </div> 
               </form>   
@@ -109,6 +110,8 @@
               <h5>Outras Finalidades</h5>
               <fieldset >
                 <input type="text" size="20" name="finalidades1" placeholder="Informe a Descrição">
+                <br>
+                <br>
               
                <input type="number" step="0.01" size="20" name="valor_finalidades1" placeholder="Informe o Valor"> 
               

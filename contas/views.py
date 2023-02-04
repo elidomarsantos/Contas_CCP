@@ -18,6 +18,21 @@ from fillpdf import extractfillpdf
 import openpyxl 
 
 saldo_mês_atual =  0
+saldo_final_extrato_betel = 0
+sal_final_betel = 0
+total_total = 0
+saldo_conta_extrato_sem_betel = 0
+sal_final_con = 0
+don_ent_value = 0
+don_sai_value = 0
+con_ent_value = 0
+con_sai_value = 0
+out_ent_value = 0
+out_sai_value = 0
+sal_final_don = 0
+total_C_TE = 0
+total_O = 0
+total_G = 0
 
 def home(request):
     return render(request, 'cp/home.html') 
@@ -575,7 +590,22 @@ def relatório_mensal(request):
    
 @login_required
 def contas(request):
-   
+    global saldo_final_extrato_betel
+    global sal_final_betel
+    global total_total
+    global saldo_conta_extrato_sem_betel 
+    global sal_final_con
+    global don_ent_value
+    global don_sai_value
+    global con_ent_value
+    global con_sai_value
+    global out_ent_value
+    global out_sai_value
+    global sal_final_don
+    global total_C_TE
+    global total_O
+    global total_G
+
     
     if request.method == 'POST':
         contas = Form_FContas(request.POST)
@@ -820,11 +850,6 @@ def contas(request):
     saldo_total_mês_anterior = saldo_donativos_anterior + saldo_conta_anterior + saldo_betel_anterior
     
     
-    
-  
-    
-    
-    
     context = {
         'numeros': numeros,
         'contas': contas,
@@ -858,9 +883,7 @@ def contas(request):
         'saldo_final_extrato_mensal': saldo_final_extrato_mensal,
         'saldo_total_mês_anterior': saldo_total_mês_anterior,
         'saldo_mês_atual': saldo_mês_atual,
-        
-        
-        
+       
     }
     
     return render(request, 'cp/folha.html', context )  
@@ -2664,7 +2687,32 @@ def imprimir_FC(request):
 
         fillpdfs.write_fillable_pdf('static/FC.pdf', 'static/FC_pronto.pdf', data_dict)
 
-    return render(request, 'cp/imprimir_FC.html')    
+    return render(request, 'cp/imprimir_FC.html') 
+
+
+def resultado(request):
+    
+    
+    context = {
+        'saldo_final_extrato_betel':saldo_final_extrato_betel,
+        'sal_final_betel':sal_final_betel,
+        'total_total':total_total,
+        'saldo_conta_extrato_sem_betel': saldo_conta_extrato_sem_betel, 
+        'sal_final_con':sal_final_con,
+        'don_ent_value':don_ent_value,
+        'don_sai_value':don_sai_value,
+        'con_ent_value':con_ent_value,
+        'con_sai_value':con_sai_value,
+        'out_ent_value':out_ent_value,
+        'out_sai_value':out_sai_value,
+        'sal_final_don':sal_final_don,
+        'total_C_TE':total_C_TE,
+        'total_O':total_O,
+        'total_G':total_G,
+        'saldo_mês_atual':saldo_mês_atual,
+        }
+    
+    return render(request, 'cp/resultado.html' , context )    
 
 
 

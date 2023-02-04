@@ -18,6 +18,7 @@ urlpatterns = [
     path('recibo/<int:id>', views.recibo),
     path('imprimir_FC', views.imprimir_FC),
     path('', views.home),
+    path('resultado/', views.resultado),
     
     
 

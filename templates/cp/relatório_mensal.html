@@ -13,11 +13,12 @@
           <form method="POST">
             {% csrf_token %}
                   
-                 <a id="registro_b" href="/view_gerais_contas" class="btn btn-secondary" role="button" aria-pressed="true">Informações Gerais</a>
+                 <a id="registro_b" href="/view_gerais_contas" class="btn btn-primary" role="button" aria-pressed="true">Informações Gerais</a>
+                 <a id="registro_b" href="/resultado" class="btn btn-success" role="button" aria-pressed="true">Confronto e Totais</a>
                  <a id="registro_b" href="/contas"  class="btn btn-secondary">Folha de Contas</a>
                  <a id="registro_b" href="/registro" class="btn btn-secondary">Registro (TO-62)</a>
                  <input id="registro_b" type="submit" class="btn btn-info" value="Gerar Relatório">
-                 <a id="registro_b" href="{% static 'relatório_pronto.pdf' %}"class="btn btn-success" download="Relatório Mensal">Download</a>
+                 <a id="registro_b" href="{% static 'relatório_pronto.pdf' %}"class="btn btn-success" download="Relatório Mensal">Baixar</a>
             </form>  
             </div> 
              
@@ -206,6 +207,8 @@
               <h5>Outras Entradas de Valores</h5>
               <fieldset >
                 <input type="text" size="20" name="outras_ent_1_mot" placeholder="Informe a Descrição">
+                <br>
+                <br>
                 <input type="number" step="0.01" size="20" name="outras_ent_1" placeholder="Informe o Valor"> 
                  </fieldset>
             </div>
@@ -217,6 +220,8 @@
               <fieldset >
                 
                 <input type="text" size="20" name="outras_sai_1_mot" placeholder="Informe a Descrição">
+                <br>
+                <br>
                 <input type="number" step="0.01" size="20" name="outras_sai_1" placeholder="Informe o Valor"> 
           
                </fieldset>
@@ -227,7 +232,8 @@
               <h5>Fundos Reservados</h5>
               <fieldset >
                  <input type="text" step="0.01" size="20" name="fundos_reservados_desc" placeholder="Informe a Descrição">
-                
+                 <br>
+                 <br>
                 <input type="number" step="0.01" size="20" name="fundos_reservados" placeholder="Informe o Valor">
                
                 </fieldset>

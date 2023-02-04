@@ -351,10 +351,7 @@ font-weight: bold;
  
 }
 
-#registro_b {
-  margin:5px;
-  width: 170px;
-}
+
 
 .card-img-top {
   border-radius: 10%;
@@ -367,9 +364,9 @@ font-weight: bold;
  }
 
 .navbar {
-    background-color: lightgrey;
-    border-radius: 20px;
+    
     padding-left: 8%;
+    border-bottom: 3px solid gray;
  
 }
 
@@ -377,11 +374,14 @@ font-weight: bold;
 .navbar .navbar-nav .nav-link:hover { background-color:lightgrey; color:  hsl(45, 100%, 2%);font-family: 'Open Sans', sans-serif; } 
 
 
-#botoes_gerais {
- justify-content: space-around;
- display: flex;
- flex-direction: row;
+
+
+#registro_b {
+  margin: 3px;
+  width: 162px;
+  font-size: 15px;
 }
+
 
 .card {
   border:none;

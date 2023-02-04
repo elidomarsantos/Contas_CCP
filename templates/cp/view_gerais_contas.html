@@ -19,6 +19,7 @@
               {% for a in gerais %} 
              <a id="registro_b"href="/editar_gerais_contas/{{a.id}}" class="btn btn-warning">Editar</a>
               {% endfor %} 
+               <a id="registro_b" href="/resultado" class="btn btn-success" role="button" aria-pressed="true">Confronto e Totais</a>
                 <a id="registro_b"href="/contas"  class="btn btn-secondary">Folha de Contas</a></span>
                 <a id="registro_b"href="/relatório_mensal"  class="btn btn-secondary">Relatório Mensal</a>
                 <a id="registro_b"href="/registro" class="btn btn-secondary">Registro (TO-62)</a>
@@ -134,9 +135,13 @@
          </tr>
          </tbody>
       </table>
+  
  </div>  
 </div> 
 </div> 
+<div class="card-body">
+   <p style='font-size: 15px'><b>Após o lançamento de todas as informações nesta tabela acima, lançar na "Folha de Contas" todos os recibos e movimentações contidas no extrato, e outras informações de valores extras que sejam necessários no "Relatório Mensal", confira em <a href="/resultado"> "Confronto e Totais"</a>, tabelas com totais gerais e um confronto para auxiliar no fechamento.</b>
+  </div>
 </div> 
 
 
