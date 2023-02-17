@@ -82,12 +82,12 @@ WSGI_APPLICATION = 'gerenciamento_contas.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.redis',
         'NAME': 'railway',
-        'USER': 'root',
-        'PASSWORD': '0OD3qgNwVnGEF7Nkk3gw',
-        'HOST': 'containers-us-west-16.railway.app',
-        'PORT': '5749',
+        'USER': '7792',
+        'PASSWORD': 'u5tflOatFzu9prXF0b9X',
+        'HOST': 'containers-us-west-116.railway.app',
+        'PORT': '7792',
     }
 }
 
