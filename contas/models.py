@@ -24,7 +24,6 @@ class Gerais(models.Model):
     estado = models.CharField(max_length=60, blank=True, null=True)
     mês = models.CharField(max_length=60, blank=True, null=True)
     ano = models.CharField(max_length=60, blank=True, null=True)
-    data_do_Fechamento1 = models.CharField(max_length=60, blank=True, null=True)
     data_do_Fechamento = models.DateField(blank=True, null=True,)
     servo_de_contas = models.CharField(max_length=60, blank=True, null=True)
     secretário = models.CharField(max_length=60, blank=True, null=True)
