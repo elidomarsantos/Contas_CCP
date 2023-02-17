@@ -24,7 +24,7 @@ class Gerais(models.Model):
     estado = models.CharField(max_length=60, blank=True, null=True)
     mês = models.CharField(max_length=60, blank=True, null=True)
     ano = models.CharField(max_length=60, blank=True, null=True)
-    data_do_Fechamento = models.DateField(blank=True, null=True,)
+    data_do_Fechamento1 = models.DateField(blank=True, null=True,)
     servo_de_contas = models.CharField(max_length=60, blank=True, null=True)
     secretário = models.CharField(max_length=60, blank=True, null=True)
     saldo_Final_do_Extrato_Mensal = models.DecimalField(blank=True, null=True, max_digits = 10, decimal_places = 2, verbose_name='Saldo da Conta Bancária no Fim do Mês')
