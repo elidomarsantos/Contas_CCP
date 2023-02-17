@@ -28,9 +28,9 @@ SECRET_KEY = 'django-insecure-d#uz=)c-#1(vn@-s83*m)%e+u+1m0rtex=t@9ojszojw1od#f&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['contasccp.up.railway.app', '127.0.0.1']
+ALLOWED_HOSTS = ['contas.ccp.up.railway.app', '127.0.0.1']
 
-CSRF_TRUSTED_ORIGINS = ['https://contasccp.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://contas.ccp.up.railway.app']
 
 # Application definition
 
@@ -80,10 +80,15 @@ WSGI_APPLICATION = 'gerenciamento_contas.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': 'xv6jw9087vZrd9PPOBnZ',
+        'HOST': 'containers-us-west-159.railway.app',
+        'PORT': '6512',
     }
 }
 
