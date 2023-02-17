@@ -28,9 +28,9 @@ SECRET_KEY = 'django-insecure-d#uz=)c-#1(vn@-s83*m)%e+u+1m0rtex=t@9ojszojw1od#f&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['contas.ccp.up.railway.app', '127.0.0.1']
+ALLOWED_HOSTS = ['contasccp.up.railway.app', '127.0.0.1']
 
-CSRF_TRUSTED_ORIGINS = ['https://contas.ccp.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://contasccp.up.railway.app']
 
 # Application definition
 
