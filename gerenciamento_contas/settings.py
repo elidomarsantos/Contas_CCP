@@ -82,12 +82,8 @@ WSGI_APPLICATION = 'gerenciamento_contas.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'railway',
-        'USER': 'root',
-        'PASSWORD': 'ovspQCCc1G10s2E4bZuL',
-        'HOST': 'containers-us-west-66.railway.app',
-        'PORT': '7927',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
