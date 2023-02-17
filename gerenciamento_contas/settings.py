@@ -145,7 +145,6 @@ LOGIN_REDIRECT_URL = '/view_gerais_contas'
 LOGOUT_REDIRECT_URL = '/autenticacao/login'
 
 
-
 DATE_INPUT_FORMATS = ['%d/%m/%Y'] 
 
 import dj_database_url
